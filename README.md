@@ -62,7 +62,7 @@
 |||Azure AD アプリ認証連携|tsmatsuz||[YouTube](https://aka.ms/ocpjptbinf002)|
 |||セキュリティ機能概要|tokubo||[YouTube](https://www.youtube.com/watch?v=83LbnY1Rxjo)|
 |||SQL DB, Synapse Workspace|tfukuha||[YouTube](https://aka.ms/ocpjptbdat004)|
-|||Sentinel|hinakamu|★|[社内動画](https://microsoftapc.sharepoint.com/:v:/t/JapanCSCSAInfrastructure2/EYAT4JW54wNNuoSOV2WGv1YBX3wm4QUCIt5OBoZRZ_9r8g?e=Lko02H) [社外動画](https://japan.zdnet.com/paper/30001233/30005544/) [pptx](https://microsoftapc.sharepoint.com/:p:/t/JapanCSCSAInfrastructure2/EcMtsjz47mRBrJge5S4s34ABAuUIqsumcPLAnIwY9YiU5Q?e=NXUT45)|
+|||Sentinel|hinakamu|★|[WebCast](https://japan.zdnet.com/paper/30001233/30005544/)|
 ||インフラ|Azure 物理インフラ|tokawa|★|[YouTube](https://aka.ms/ocpjptbinf007)|
 ||ネットワーク|Azure ネットワーク概要|minaito||[YouTube](https://aka.ms/ocpjptbinf003)|
 |||仮想ネットワーク設計|nakama|★★★|[ppt](https://download.microsoft.com/download/4/d/e/4de15095-223c-4e82-b187-315ffa852ade/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.pptx) [mp4](https://download.microsoft.com/download/2/7/2/272111c2-a418-4864-b9ac-aaf01268c5c6/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.zip)|
@@ -153,10 +153,37 @@
 ||yoterada (Java)|[YouTube](https://www.youtube.com/c/YoshioTerada/videos)||[GitHub](https://github.com/yoshioterada)|[Qiita](https://qiita.com/yoshioterada)|
 ||mahiyama (Azure)||||[Qiita](https://qiita.com/mahiya)|
 ||nakama (.NET)||[Blog](https://nakama.azurewebsites.net/)|[GitHub](https://github.com/nakamacchi/)||
-|MSKK チーム|Japan Azure Monitoring Support Blog||[Blog](https://jpazmon-integ.github.io/blog/)|||
+|MSKK チーム|Japan CSS blog 一覧 (日本マイクロソフトサポート情報)||[Blog](https://cssjpn.github.io/)|||
+||Exchange & Outlook サポート||[Blog](https://jpmessaging.github.io/blog/)|||
+||SharePoint サポート チーム||[Blog](https://jpspsupport.github.io/blog/)|||
+||Office サポート チーム フォーラム||[Blog](https://officesupportjp.github.io/blog/)|||
+||Microsoft Japan Unified Communication Support Team||[Blog](https://jpucsupport.github.io/blog/)|||
+||Japan Microsoft Intune Support Team||[Blog](https://jpmem.github.io/blog/)|||
+||Japan Azure IaaS and Networking Support Team||[Blog](https://jpaztech.github.io/blog/)|||
+||Azure Subscription Management Support Team||[Blog](https://jpazasms.github.io/blog/)|||
+||Japan CSS ABRS||[Blog](https://jpabrs-scem.github.io/blog/)|||
+||Japan Azure Monitoring Support Blog||[Blog](https://jpazmon-integ.github.io/blog/)|||
+||Japan Integration Support team||[Blog](https://jpazinteg.github.io/blog/)|||
+||Japan Azure PaaS サポート チーム||[Blog](https://aka.ms/jpazpaasblog)|||
+||Azure Bot Service サポート チーム||[Blog](https://jpdsi.github.io/blog/)|||
 ||Japan Azure Identity Support Blog||[Blog](https://jpazureid.github.io/blog/)|[GitHub](https://github.com/jpazureid/blog)||
-||Japan FTA (FastTrack for Azure)|||[GitHub](https://github.com/Azure/fta-japan)||
+||Japan Azure Machine Learning サポート チーム||[Blog](https://jpmlblog.github.io/blog/)|||
+||Japan Azure Cognitive Services サポートチーム||[Blog](https://jpaiblog.github.io/blog/)|||
+||Japan IoT サポートチーム||[Blog](https://jpiotblog.github.io/blog/)|||
 ||Microsoft Japan Windows Technology Support Blog||[Blog](https://jpwinsup.github.io/blog/)|||
+||Japan CSS Security Support Blog||[Blog](https://jp-sec.github.io/blog/)|||
+||日本のセキュリティ チーム (Japan Security Team)||[Blog](https://aka.ms/jpsecurity/)|||
+||Visual Studio サポート チーム||[Blog](https://jpdscore.github.io/blog/)|||
+||Windows SDK サポート チーム||[Blog](https://jpdscore.github.io/blog/)|||
+||ASP.NET サポート チーム||[Blog](https://jpdsi.github.io/blog/)|||
+||Windows Driver Kit サポートチーム||[Blog](https://jpwdkblog.github.io/blog/)|||
+||Edge/Internet Explorer (IE) サポート チーム||[Blog](https://jpdsi.github.io/blog/)|||
+||Internet Information Services (IIS) サポート チーム||[Blog](https://jpdsi.github.io/blog/)|||
+||Microsoft Japan BI Data Platform(SQL) Support Team||[Blog](https://social.technet.microsoft.com/Forums/ja-JP/home?forum=jpbidp)|||
+||Power BI サポート チーム||[Blog](https://jpbap-sqlbi.github.io/blog/)|||
+||Dynamics 365 CRM & Power Platform サポート||[Blog](https://jpdynamicscrm.github.io/blog/)|||
+||Dynamics 365 Finance and Operations/AX サポート チーム||[Blog](https://jpdynamicserp.github.io/blog/)|||
+||Japan FTA (FastTrack for Azure)|||[GitHub](https://github.com/Azure/fta-japan)||
 ||MPNJ (Microsoft Partner Network Japan)|[YouTube](https://www.youtube.com/@MicrosoftPartnerNetworkJapan)||||
 ||日本マイクロソフト株式会社 公式チャンネル|[YouTube](https://www.youtube.com/user/microsoftjapanvideos)||||
 |米国本社|Access Blog||[Blog](https://techcommunity.microsoft.com/t5/access-blog/bg-p/AccessBlog)|||
