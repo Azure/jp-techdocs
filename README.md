@@ -24,9 +24,10 @@
 |大分類|小分類|トピック|オーナー|オススメ度|コンテンツ|
 |:----|:----|:----|:----|:----|:----|
 |設計・アーキテクチャ論|Azure 概論|Azure L100（旧版）|nakama||[mp4(1)](https://download.microsoft.com/download/d/b/0/db00c64b-5d6f-4394-b44b-baee4ef52133/2019_03_04_AzureL100Part1(HD).zip) [mp4(2)](https://download.microsoft.com/download/4/8/8/488124d3-6519-484e-bf74-8db9fe7c9e39/2019_03_04_AzureL100Part2(HD).zip) [mp4(3)](https://download.microsoft.com/download/6/f/5/6f5a32f4-f1c6-4210-84a6-09f5f055e449/2019_03_04_AzureL100Part3(HD).zip) [mp4(4)](https://download.microsoft.com/download/c/e/0/ce0be5d2-2d5b-4d4c-a740-1ae5790e5526/2019_03_04_AzureL100Executive(HD).zip)|
+||設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama||[ppt](https://aka.ms/AAj0ml9) [mp4 (前半)](https://aka.ms/AAj0ml8) [mp4 (後半)](https://aka.ms/AAj08w7)|
 ||セキュリティ|ゼロトラストセキュリティ|nakama|★★★|[ppt](https://download.microsoft.com/download/d/f/e/dfed7e7b-75e8-4939-823d-25a06b0abd68/FgCF_①_0_Zero_trust_type_multi_cloud_IT_environment_Introduction_Further_shortened_version_v0.40.pptx) [mp4](https://download.microsoft.com/download/b/5/0/b507ac40-280b-413a-be8a-56b29a6a765d/2020_03_10_FgCF_ZeroTrustMultiCloudITEnvironment_movie_v0.40a.zip) [YouTube](https://www.youtube.com/watch?v=T3bySEjhoQ8)|
 |||OA 環境設計|nakama|★|[ppt](https://download.microsoft.com/download/e/6/2/e6254b95-f822-42a9-b68c-057a71a67dca/FgCF_102_Zero_Trust_Multi_Cloud_IT_Environment_OA_Environment_Design_v0.17.pptx) [mp4](https://download.microsoft.com/download/3/7/0/370c26c3-a785-462b-a484-b69500d28680/FgCF_Zero_Trust_IT_Infrastructure_Design_way_of_thinking_video_v0.17.mp4) [YouTube](https://www.youtube.com/watch?v=QUyfcHDJXyI)|
-|||Azure W-AF : Security|nakama|★★|[ppt](https://download.microsoft.com/download/1/3/8/13855030-7731-47a8-9759-ff28d9c32e3e/AzureW-AF_Security_section_Overview_documentation_v0.13.pptx) [mp4](https://download.microsoft.com/download/1/4/9/149d6525-9a7a-42a4-9302-87efce5f4d82/2020_06_12_AzureW_AF_Security_v0.13.zip) [YouTube](https://www.youtube.com/watch?v=w7-LVAWaGZU)|
+|||Azure W-AF : Security|nakama|★|[ppt](https://download.microsoft.com/download/1/3/8/13855030-7731-47a8-9759-ff28d9c32e3e/AzureW-AF_Security_section_Overview_documentation_v0.13.pptx) [mp4](https://download.microsoft.com/download/1/4/9/149d6525-9a7a-42a4-9302-87efce5f4d82/2020_06_12_AzureW_AF_Security_v0.13.zip) [YouTube](https://www.youtube.com/watch?v=w7-LVAWaGZU)|
 ||アプリ開発技術概論|Web アプリ開発入門|hihorika||[YouTube](https://www.youtube.com/watch?v=OogiYJ4ogtY)|
 |||コンテナ技術入門|nakama|★|[ppt](https://download.microsoft.com/download/3/f/7/3f7ac344-01c4-4c7f-8509-85bcc7371d9f/FgCF_130_CaaS_Container_Super_introduction_v0.03.pptx) [mp4](https://download.microsoft.com/download/5/7/6/5763af79-e5c0-4a37-86a5-e875581a5393/FgCF_130_CaaS_Container_Super_introduction_v0.03.zip)|
 |||k8s on Azure 入門|shiasa||[YouTube](https://aka.ms/ocpjptbapp041)|
@@ -60,6 +61,7 @@
 |||Azure AD 基礎・Azure AD B2B|nakama|★★★|[ppt](https://download.microsoft.com/download/1/3/8/138c3005-82f4-41db-bf78-9ce6d46af2ab/FgCF_①_2_AzureAD_Overview_v0.70.pptx) [mp4](https://download.microsoft.com/download/f/6/0/f6093441-8ca4-4901-b74e-f87894fc9ad8/2020_01_08_FgCF_AzureADForAzureBasics_v0.22.zip) [YouTube](https://www.youtube.com/watch?v=H7TKjAGT7pA) [フルセット版](https://download.microsoft.com/download/4/4/2/442b4fb3-f47a-4d13-b67a-ab5c721dc4ac/AzureAuthorizationDesignAndManagement_v0.67.pptx)|
 |||Azure AD テナント初期構築|nakama|★|[ppt](https://download.microsoft.com/download/a/0/3/a03cab45-1a89-4e53-b026-1b55a2ee91db/FgCF_112_VDC_construction_Authentication_infrastructure_Method_of_creating_Azure_AD_tenant_for_Azure_management_v0.01.pptx) [mp4](https://download.microsoft.com/download/3/b/f/3bfc7a3a-2560-4659-8eef-8af599c41320/FgCF_112_VDC_construction_Authentication_infrastructure_Method_of_creating_Azure_AD_tenant_for_Azure_management_v0.01.zip)|
 |||Azure AD アプリ認証連携|tsmatsuz||[YouTube](https://aka.ms/ocpjptbinf002)|
+|||MDfC/MDfS|nakama|★★|[→ IaaS VM 管理ガイドを参照](https://aka.ms/AAj08w4)|
 |||セキュリティ機能概要|tokubo||[YouTube](https://www.youtube.com/watch?v=83LbnY1Rxjo)|
 |||SQL DB, Synapse Workspace|tfukuha||[YouTube](https://aka.ms/ocpjptbdat004)|
 |||Sentinel|hinakamu|★|[WebCast](https://japan.zdnet.com/paper/30001233/30005544/)|
@@ -71,6 +73,7 @@
 ||IaaS|IaaS VM 入門|tfukuha|★★|[YouTube](https://aka.ms/ocpjptbdat009)|
 |||VM シリーズ・サイズ選択|kakikuch||[YouTube](https://www.youtube.com/watch?v=U9AkACxNWuo)|
 |||IaaS VM 解説 (旧)|nakama||[ppt](https://download.microsoft.com/download/9/a/2/9a258748-936b-4b43-b127-2adc616e70d7/FgCF_①_3_SecurityBaseline(IaaS)_v1.00.pptx) [mp4](https://download.microsoft.com/download/d/6/0/d60816c1-47d8-4e7f-9a3a-ef404b441104/2020_01_17_FgCF_SecurityBaseline(IaaS)_v1.00_SplitVersion.zip) [YouTube](https://www.youtube.com/watch?v=S3A4Q9qRcCs)|
+|||IaaS VM 管理ガイド|nakama|★★|[ppt](https://aka.ms/AAj08w4) [doc](https://aka.ms/AAj0ggu) [mp4 (前半)](https://aka.ms/AAj08w6) [mp4 (後半)](https://aka.ms/AAj0ggw)|
 |||Azure Migrate|kosetoguchi||[YouTube](https://www.youtube.com/watch?v=9F-ZKtQcVAo)|
 ||CaaS|AKS|nakama||[ppt](https://download.microsoft.com/download/6/4/c/64c7f727-7712-49e7-a95e-7aa19e412e68/2020_04_25_AKS_TechnicalReference_v0.14(ppt).zip) [mp4(1)](https://download.microsoft.com/download/6/6/c/66c3ab0e-3d15-4e79-8377-a2880f1569b2/2020_04_25_AKS_TechnicalReference_v0.14(video1).zip) [mp4(2)](https://download.microsoft.com/download/9/7/8/97858185-ba75-48a3-a931-72092b5c1279/2020_04_25_AKS_TechnicalReference_v0.14(video2).zip) [doc](https://download.microsoft.com/download/d/e/1/de1f3cf0-8589-4e21-a4e0-4d9bd7de8291/FgCF_132_CaaS_AKS_TechnicalReference_Buildingsample_app_v0.13.zip) [mp4(3)](https://download.microsoft.com/download/b/a/8/ba8a9c96-4fc8-43ed-8309-9624d1a45779/2020_04_25_AKS_TechnicalReference_v0.14(video3).zip) [YouTube(1)](https://www.youtube.com/watch?v=t-qqjCLwcQo) [YouTube(2)](https://www.youtube.com/watch?v=qSyhyO6QRcY) [YouTube(3)](https://www.youtube.com/watch?v=-X1QHzsOhBo)|
 |||ARO|tetsuyasodo||[ppt](https://download.microsoft.com/download/8/d/1/8d130c64-7aaa-4416-bec6-70c910c6d5df/FgCF_133_CaaS_ARO_TechnicalReference_v0.14.pptx) [doc](https://download.microsoft.com/download/a/8/5/a855ac44-bee0-4d1a-9f55-c8133d0814c7/FgCF_133_CaaS_ARO_TechnicalReference_v0.14_Construction_Script.md)|
@@ -147,58 +150,86 @@
 
 |分類|社員またはチーム|タグ|YouTube|Blog|GitHub|Qiita|その他|
 |:----|:----|:----|:----|:----|:----|:----|:----|
-|MSKK 社員|yoo|MDfC, Sentinel||||[Qiita](https://qiita.com/YoshiakiOi)|
-||hisnakad|MDfC, Sentinel||||[Qiita](https://qiita.com/hisnakad)|
-||yusukekodama|Azure AD|||[GitHub](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)||
-||yoterada|Java|[YouTube](https://www.youtube.com/c/YoshioTerada/videos)||[GitHub](https://github.com/yoshioterada)|[Qiita](https://qiita.com/yoshioterada)|
-||mahiyama|Azure AD||||[Qiita](https://qiita.com/mahiya)|
-||ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)|
-||shuda|Azure Infra||[Blog](https://www.syuheiuda.com/)|||
-||tatsumiy|Azure Infra||||[Qiita](https://qiita.com/aktsmm)|
-||ymatsumoto|Azure Infra||[Blog](https://blog.aimless.jp/)|[GitHub](https://github.com/kongou-ae)||
-||juyamagu|Azure Infra||[Blog](https://zenn.dev/openjny)|||
-||taushiga|Azure Infra||[Blog](https://www.cloudou.net/)|||
-||tomakabe|k8s||[Blog](https://torumakabe.github.io/)|||
-||wahaniya|AppDev|||[GitHub](https://github.com/watahani)|[Qiita](https://qiita.com/watahani)|
-||oliva|AppDev||||[Qiita](https://qiita.com/oliva)|
-||kasakemi|Azure Infra||||[Qiita](https://qiita.com/shakemi)|
-||hyatsu|AppService||||[Qiita](https://qiita.com/hyatsu)|
-||tsunomur|Azure Infra||||[Qiita](https://qiita.com/tsubasaxZZZ)|
-||nobukoyamada|LogicApp||||[Qiita](https://qiita.com/e99h2121)|
-||toshida|AppService||[Blog](https://blog.toshida.org/)|[GitHub](https://github.com/georgeOsdDev)|[Qiita](https://qiita.com/georgeOsdDev@github)|
-||makunik|AppService||||[Qiita](https://qiita.com/superriver)|
-||hihorika|AppService||||[Qiita](https://qiita.com/horihiro)|
-||komayama|AppService, Functions||[Blog](https://mym.works/)||[Qiita](https://qiita.com/mym)|
-||kokecross|DevOps||||[Qiita](https://qiita.com/KoKeCross)|
-||zak|Algorithm||||[Qiita](https://qiita.com/zak74702675)|
-||tkawabuchi|k8s||||[Qiita](https://qiita.com/tbuchi888)|
-||manamitaira|AVD||||[Qiita](https://qiita.com/mana_cat)|
-||yutobo|AppService||||[Qiita](https://qiita.com/YusukeTobo)|
-||ftokumitsu|||||[Qiita](https://qiita.com/toku345)|
+|MSKK 社員|Qiita MS 社員ページ|||||[Qiita](https://qiita.com/organizations/microsoft)|
 ||Annoske|DevOps||||[Qiita](https://qiita.com/Annoske)|
-||So Nkbys|AppDev||||[Qiita](https://qiita.com/so_nkbys)|
-||tkamiya|||||[Qiita](https://qiita.com/t3kot3ko)|
-||naoshima|AppDev||[Blog](https://nt-blogs-nt-7.vercel.app/blog)||[Qiita](https://qiita.com/nt-7)|
-||yukirii|k8s||[Blog](https://blog.yukirii.dev/)||[Qiita](https://qiita.com/yukirii)|
-||yuna-s|AppService, Functions||||[Qiita](https://qiita.com/yuna-s)|
-||ktakahashi|Data/AI|||[GitHub](https://k14i.github.io/)||
-||nakama|.NET||[Blog](https://nakama.azurewebsites.net/)|[GitHub](https://github.com/nakamacchi/)||
-||haoqiangyou|Azure IaaS, k8s, Terraform||[Blog](https://hyoublog.com/)|||
-||koheisaito|Java||||[Qiita](https://qiita.com/kk31108424)|
-||ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)|
-||junkitayama|AppDev|||[GitHub](https://github.com/jun110)|[Qiita](https://qiita.com/jun110)|
 ||aomachi|AppService, Functions||||[Qiita](https://qiita.com/Atsushi_Omachi)|
-||maikoshima|AppService||||[Qiita](https://qiita.com/MaikoShima)|
-||shyamag|Azure AD||||[Qiita](https://qiita.com/Shinya-Yamaguchi)|
-||yuyon|AppDev||[Blog](https://yonehub.y10e.com/)||[Qiita](https://qiita.com/y10exxx)|
-||shohe|AppService, Azure Stack||||[Qiita](https://qiita.com/shogo-ohe)|
+||asuzuki|Azure Network||||[Qiita](https://qiita.com/achu0628)|
+||dahatake|Data/AI||||[Qiita](https://qiita.com/dahatake)|
 ||dmaki|AppService||||[Qiita](https://qiita.com/dismakeu)|
-||tanagaya|||||[Qiita](https://qiita.com/takmnagaya)|
-||makokui|AppService||||[Qiita](https://qiita.com/makokui)|
+||ftokumitsu|||||[Qiita](https://qiita.com/toku345)|
+||haoqiangyou|Azure IaaS, k8s, Terraform||[Blog](https://hyoublog.com/)|||
+||hihigash|Azure DevOps||||[Qiita](https://qiita.com/hihigash)|
+||hihorika|AppService, Functions||[Blog](https://uncaughtexception.hatenablog.com/)|[GitHub](https://github.com/horihiro)|[Qiita](https://qiita.com/horihiro)|
+||hisnakad|MDfC, Sentinel||||[Qiita](https://qiita.com/hisnakad)|
+||hkashiwagi|D365|||[GitHub](https://github.com/hide6974)|[Qiita](https://qiita.com/hide6974)|
+||hyatsu|AppService||||[Qiita](https://qiita.com/hyatsu)|
+||ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)|
+||ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)|
+||jtsuchida|C#, Azure||||[Qiita](https://qiita.com/07JP27)|
+||junkitayama|AppDev|||[GitHub](https://github.com/jun110)|[Qiita](https://qiita.com/jun110)|
+||juyamagu|Azure Infra||[Blog](https://zenn.dev/openjny)|||
+||kahiro|Azure, .NET|||[GitHub](https://github.com/kazumihirose)|[Qiita](https://qiita.com/kazumihirose)|
+||kakusaya|Azure Infra||[Blog](https://www.michikusayan.com/)|[GitHub](https://github.com/kzk839)|[Qiita](https://qiita.com/KazukiKusaya)|
+||kaota|.NET|[YouTube](https://www.youtube.com/channel/UCi-IqYqwxd_NgTydJVCIQLg)|[Blog](https://blog.okazuki.jp)|[GitHub](https://github.com/runceel)|[Qiita](https://qiita.com/okazuki)|
+||kasakemi|Azure Infra||||[Qiita](https://qiita.com/shakemi)|
+||kenakamu|Azure|||[GitHub](https://github.com/kenakamu)|[Qiita](https://qiita.com/kenakamu)|
+||kenakay|Azure||||[Qiita](https://qiita.com/KentoNaka)|
 ||khigashi|AppService||||[Qiita](https://qiita.com/khigashi)|
+||koheisaito|Java||||[Qiita](https://qiita.com/kk31108424)|
+||koishizu|Azure Infra|||||
+||koishizu|Azure Infra|||[GitHub](https://github.com/zukakosan)|[Qiita](https://qiita.com/zukakosan)|
+||kokecross|DevOps||||[Qiita](https://qiita.com/KoKeCross)|
+||komayama|AppService, Functions||[Blog](https://mym.works/)||[Qiita](https://qiita.com/mym)|
+||komiyasa|Azure, AppDev|||[GitHub](https://github.com/komiyasa)|[Qiita](https://qiita.com/komiyasa)|
+||ktakahashi|Data/AI|||[GitHub](https://k14i.github.io/)||
+||kumukai|D365, PowerPlatform||||[Qiita](https://qiita.com/kumukai)|
+||machiy|AI, Bot||||[Qiita](https://qiita.com/chomado)|
+||mahiyama|Azure AD||||[Qiita](https://qiita.com/mahiya)|
+||maikoshima|AppService||||[Qiita](https://qiita.com/MaikoShima)|
+||makokui|AppService||||[Qiita](https://qiita.com/makokui)|
+||manabuoda|Azure, EA Portal||||[Qiita](https://qiita.com/manabuoda)|
+||manamitaira|AVD||||[Qiita](https://qiita.com/mana_cat)|
+||masatoueda|Azure Infra||||[Qiita](https://qiita.com/ueda_it)|
+||mikono|AppService||||[Qiita](https://qiita.com/superriver)|
+||mimochiz|Data/AI||||[Qiita](https://qiita.com/mimocihz)|
+||mnanri|Azure||||[Qiita](https://qiita.com/mnanri)|
+||nakama|.NET||[Blog](https://nakama.azurewebsites.net/)|[GitHub](https://github.com/nakamacchi/)||
+||naoshima|AppDev||[Blog](https://nt-blogs-nt-7.vercel.app/blog)||[Qiita](https://qiita.com/nt-7)|
+||nobukoyamada|LogicApp||||[Qiita](https://qiita.com/e99h2121)|
+||oliva|AppDev||||[Qiita](https://qiita.com/oliva)|
+||shnagata|Data/AI||||[Qiita](https://qiita.com/aical)|
+||shohe|AppService, Functons, Azure Stack||||[Qiita](https://qiita.com/shogo-ohe)|
+||shuda|Azure Infra|[YouTube](https://www.youtube.com/playlist?list=PLW6S2_dcoOggAeezwp1o7uSrsXSYUd0zZ)|[Blog](https://www.syuheiuda.com/)|[GitHub](https://github.com/ShuheiUda)||
+||shuit|Data/AI||||[Qiita](https://qiita.com/ShuntaIto)|
+||shyamag|Azure AD||||[Qiita](https://qiita.com/Shinya-Yamaguchi)|
+||skuramoto|D365||||[Qiita](https://qiita.com/skuramoto)|
+||So Nkbys|AppDev||||[Qiita](https://qiita.com/so_nkbys)|
+||taishimiyata|Data/AI||||[Qiita](https://qiita.com/tmiyata25)|
+||takeoka|AVD|||[GitHub](https://github.com/takeokams)|[Qiita](https://qiita.com/takeokams)|
+||tanagaya|||||[Qiita](https://qiita.com/takmnagaya)|
+||tatsumiy|Azure Infra||||[Qiita](https://qiita.com/aktsmm)|
+||taushiga|Azure Infra||[Blog](https://www.cloudou.net/)|||
+||tetsuyasodo|k8s|||[GitHub](https://github.com/tetsuyasodo)|[Qiita](https://qiita.com/tetsuyasodo)|
+||tkamiya|||||[Qiita](https://qiita.com/t3kot3ko)|
+||tkawabuchi|k8s||||[Qiita](https://qiita.com/tbuchi888)|
+||tokawa|Azure, AppDev|||[GitHub](https://github.com/tokawa-ms)|[Qiita](https://qiita.com/tokawa-ms)|
+||tomakabe|k8s||[Blog](https://torumakabe.github.io/)|||
+||toshida|AppService||[Blog](https://blog.toshida.org/)|[GitHub](https://github.com/georgeOsdDev)|[Qiita](https://qiita.com/georgeOsdDev@github)|
+||tsunomur|Azure Infra||||[Qiita](https://qiita.com/tsubasaxZZZ)|
+||tsushi|Functions|||[GitHub](https://github.com/TsuyoshiUshio)|[Qiita](https://qiita.com/TsuyoshiUshio@github)|
+||tsushi|DevOps, Functions||[Blog](https://simplearchitect.hatenablog.com/)|||
+||tuesaka|Azure AppDev||||[Qiita](https://qiita.com/takashiuesaka)|
+||wahaniya|AppDev|||[GitHub](https://github.com/watahani)|[Qiita](https://qiita.com/watahani)|
+||ymatsumoto|Azure Infra||[Blog](https://blog.aimless.jp/)|[GitHub](https://github.com/kongou-ae)||
+||yoichiozaki|Algorithm||[Blog](https://zakimal.github.io/ja/post/)|[GitHub](https://github.com/zakimal)|[Qiita](https://qiita.com/zak74702675)|
+||yoo|MDfC, Sentinel||||[Qiita](https://qiita.com/YoshiakiOi)|
+||yoterada|Java|[YouTube](https://www.youtube.com/c/YoshioTerada/videos)||[GitHub](https://github.com/yoshioterada)|[Qiita](https://qiita.com/yoshioterada)|
+||yukirii|k8s||[Blog](https://blog.yukirii.dev/)||[Qiita](https://qiita.com/yukirii)|
 ||yukurash|AppService||||[Qiita](https://qiita.com/yukurash)|
-||asuzuki|Ansible||||[Qiita](https://qiita.com/achu0628)|
-||tsushi|DevOps||[Blog](https://simplearchitect.hatenablog.com/)|||
+||yunasugimoto|AppService, Functions||||[Qiita](https://qiita.com/yuna-s)|
+||yusukekodama|Azure AD|||[GitHub](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)||
+||yutobo|AppService||||[Qiita](https://qiita.com/YusukeTobo)|
+||yuyon|AppDev||[Blog](https://yonehub.y10e.com/)||[Qiita](https://qiita.com/y10exxx)|
 |MSKK チーム|Japan CSS blog 一覧 (日本マイクロソフトサポート情報)|||[Blog](https://cssjpn.github.io/)|||
 ||Exchange & Outlook サポート|Exchange||[Blog](https://jpmessaging.github.io/blog/)|||
 ||SharePoint サポート チーム|SharePoint||[Blog](https://jpspsupport.github.io/blog/)|||
