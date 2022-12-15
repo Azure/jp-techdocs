@@ -23,7 +23,8 @@
 
 |大分類|小分類|トピック|オーナー|オススメ度|コンテンツ|
 |:----|:----|:----|:----|:----|:----|
-|設計・アーキテクチャ論|Azure 概論|Azure L100（旧版）|nakama||[mp4(1)](https://download.microsoft.com/download/d/b/0/db00c64b-5d6f-4394-b44b-baee4ef52133/2019_03_04_AzureL100Part1(HD).zip) [mp4(2)](https://download.microsoft.com/download/4/8/8/488124d3-6519-484e-bf74-8db9fe7c9e39/2019_03_04_AzureL100Part2(HD).zip) [mp4(3)](https://download.microsoft.com/download/6/f/5/6f5a32f4-f1c6-4210-84a6-09f5f055e449/2019_03_04_AzureL100Part3(HD).zip) [mp4(4)](https://download.microsoft.com/download/c/e/0/ce0be5d2-2d5b-4d4c-a740-1ae5790e5526/2019_03_04_AzureL100Executive(HD).zip)|
+|設計・アーキテクチャ論|Azure 概論|Azure 標準化ガイドライン|tkanbara||[GitHub](https://github.com/Azure/Azure-standardization-guideline)|
+|||Azure L100（旧版）|nakama||[mp4(1)](https://download.microsoft.com/download/d/b/0/db00c64b-5d6f-4394-b44b-baee4ef52133/2019_03_04_AzureL100Part1(HD).zip) [mp4(2)](https://download.microsoft.com/download/4/8/8/488124d3-6519-484e-bf74-8db9fe7c9e39/2019_03_04_AzureL100Part2(HD).zip) [mp4(3)](https://download.microsoft.com/download/6/f/5/6f5a32f4-f1c6-4210-84a6-09f5f055e449/2019_03_04_AzureL100Part3(HD).zip) [mp4(4)](https://download.microsoft.com/download/c/e/0/ce0be5d2-2d5b-4d4c-a740-1ae5790e5526/2019_03_04_AzureL100Executive(HD).zip)|
 ||設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama||[ppt](https://aka.ms/AAj0ml9) [mp4 (前半)](https://aka.ms/AAj0ml8) [mp4 (後半)](https://aka.ms/AAj08w7)|
 ||セキュリティ|ゼロトラストセキュリティ|nakama|★★★|[ppt](https://download.microsoft.com/download/d/f/e/dfed7e7b-75e8-4939-823d-25a06b0abd68/FgCF_①_0_Zero_trust_type_multi_cloud_IT_environment_Introduction_Further_shortened_version_v0.40.pptx) [mp4](https://download.microsoft.com/download/b/5/0/b507ac40-280b-413a-be8a-56b29a6a765d/2020_03_10_FgCF_ZeroTrustMultiCloudITEnvironment_movie_v0.40a.zip) [YouTube](https://www.youtube.com/watch?v=T3bySEjhoQ8)|
 |||OA 環境設計|nakama|★|[ppt](https://download.microsoft.com/download/e/6/2/e6254b95-f822-42a9-b68c-057a71a67dca/FgCF_102_Zero_Trust_Multi_Cloud_IT_Environment_OA_Environment_Design_v0.17.pptx) [mp4](https://download.microsoft.com/download/3/7/0/370c26c3-a785-462b-a484-b69500d28680/FgCF_Zero_Trust_IT_Infrastructure_Design_way_of_thinking_video_v0.17.mp4) [YouTube](https://www.youtube.com/watch?v=QUyfcHDJXyI)|
@@ -66,6 +67,7 @@
 |||SQL DB, Synapse Workspace|tfukuha||[YouTube](https://aka.ms/ocpjptbdat004)|
 |||Sentinel|hinakamu|★|[WebCast](https://japan.zdnet.com/paper/30001233/30005544/)|
 ||インフラ|Azure 物理インフラ|tokawa|★|[YouTube](https://aka.ms/ocpjptbinf007)|
+|||インフラセキュリティ強化|tfukuha||[GitHub](https://github.com/Azure/jp-iaassecurity)|
 ||ネットワーク|Azure ネットワーク概要|minaito||[YouTube](https://aka.ms/ocpjptbinf003)|
 |||仮想ネットワーク設計|nakama|★★★|[ppt](https://download.microsoft.com/download/4/d/e/4de15095-223c-4e82-b187-315ffa852ade/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.pptx) [mp4](https://download.microsoft.com/download/2/7/2/272111c2-a418-4864-b9ac-aaf01268c5c6/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.zip)|
 |||延伸型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/d/f/f/dff93ba3-ab62-4a66-afc7-5d10da094c18/Web_DB_type_system_reference_architecture_and_main_points_of_construction(IaaS_VM_edition).pptx) [mp4](https://download.microsoft.com/download/d/a/8/da86811f-2aba-46da-ab2a-c42ed4e5a5c8/2019_11_07_FgCF_WebDB_ReferenceArchitecture(IaaSVM).zip) [YouTube](https://www.youtube.com/watch?v=iy4eGaUb-7U)|
@@ -77,8 +79,10 @@
 |||Azure Migrate|kosetoguchi||[YouTube](https://www.youtube.com/watch?v=9F-ZKtQcVAo)|
 ||CaaS|AKS|nakama||[ppt](https://download.microsoft.com/download/6/4/c/64c7f727-7712-49e7-a95e-7aa19e412e68/2020_04_25_AKS_TechnicalReference_v0.14(ppt).zip) [mp4(1)](https://download.microsoft.com/download/6/6/c/66c3ab0e-3d15-4e79-8377-a2880f1569b2/2020_04_25_AKS_TechnicalReference_v0.14(video1).zip) [mp4(2)](https://download.microsoft.com/download/9/7/8/97858185-ba75-48a3-a931-72092b5c1279/2020_04_25_AKS_TechnicalReference_v0.14(video2).zip) [doc](https://download.microsoft.com/download/d/e/1/de1f3cf0-8589-4e21-a4e0-4d9bd7de8291/FgCF_132_CaaS_AKS_TechnicalReference_Buildingsample_app_v0.13.zip) [mp4(3)](https://download.microsoft.com/download/b/a/8/ba8a9c96-4fc8-43ed-8309-9624d1a45779/2020_04_25_AKS_TechnicalReference_v0.14(video3).zip) [YouTube(1)](https://www.youtube.com/watch?v=t-qqjCLwcQo) [YouTube(2)](https://www.youtube.com/watch?v=qSyhyO6QRcY) [YouTube(3)](https://www.youtube.com/watch?v=-X1QHzsOhBo)|
 |||ARO|tetsuyasodo||[ppt](https://download.microsoft.com/download/8/d/1/8d130c64-7aaa-4416-bec6-70c910c6d5df/FgCF_133_CaaS_ARO_TechnicalReference_v0.14.pptx) [doc](https://download.microsoft.com/download/a/8/5/a855ac44-bee0-4d1a-9f55-c8133d0814c7/FgCF_133_CaaS_ARO_TechnicalReference_v0.14_Construction_Script.md)|
+|||AKS セキュア化|tfukuha||[GitHub](https://github.com/Azure/jp-akssecurity)|
 ||PaaS|App Service 入門|tokawa|★|[YouTube](https://aka.ms/ocpjptbapp001)|
 |||App Service|nakama||[ppt](https://download.microsoft.com/download/6/9/3/6934d11e-78dc-4c00-ae61-316067193dc1/AppService_TechnicalReference_v0.06.pptx) [mp4(1)](https://download.microsoft.com/download/6/e/a/6ea96ebd-d9ff-4291-8976-a23698bf1282/2020_06_16_AppService_TechnicalReference_Part1.zip) [mp4(2)](https://download.microsoft.com/download/e/1/3/e130959e-7e85-48a0-a583-6ac49eed7303/2020_06_16_AppService_TechnicalReference_Part2.zip) [mp4(3)](https://download.microsoft.com/download/1/2/4/124c009d-2783-447f-8dad-124499c1523b/2020_06_16_AppService_TechnicalReference_Part3.zip) [YouTube(1)](https://www.youtube.com/watch?v=pfFEtl6hK1w) [YouTube(2)](https://www.youtube.com/watch?v=tP8uQ6WgFAM) [YouTube(3)](https://www.youtube.com/watch?v=L05eizD8ws4)|
+|||App Service セキュア化|tfukuha||[GitHub](https://github.com/Azure/jp-appservicesecurity)|
 |||Azure Batch|nakama||[ppt(1)](https://download.microsoft.com/download/1/a/7/1a7fb7e9-1602-46de-9ff0-e8548d146a5b/2019_05_21_AzureBatchSample_Materials.zip) [mp4(1)](https://download.microsoft.com/download/4/8/b/48baeee0-921c-4ecd-afa1-c57b2dcdc935/2019_05_21_AzureBatchSample_Video.zip) [YouTube(1)](https://www.youtube.com/watch?v=Z8d4zq8Skh4) [ppt(2)](https://download.microsoft.com/download/4/5/4/454c783b-372f-48c1-aed8-e7b7b112599a/AzureBatch_Technical_reference_v0.20.pptx) [mp4(2)](https://download.microsoft.com/download/2/1/6/2160a96c-deca-43fd-a557-72a9d29b58e1/2020_08_14_AzureBatch_TechnicalReference_v0.20.zip) [YouTube(3)](https://www.youtube.com/watch?v=VvmK7wRBU5Y)|
 |||Azure Spring Cloud|yoterada||[YouTube](https://aka.ms/ocpjptbapp061)|
 |||Java on App Service|yoterada||[YouTube](https://www.youtube.com/watch?v=ymN68MtMwT0)|
@@ -90,6 +94,7 @@
 |||Oracle to PostgreSQL 移行ガイド|enishimu||[YouTube](https://aka.ms/ocpjptbdat006)|
 |||IaaS SQL Server|tfukuha|★|[YouTube](https://aka.ms/ocpjptbdat008)|
 |||SQL DB vs SQL MI|tfukuha||[YouTube](https://aka.ms/ocpjptbdat010)|
+|||SQL DB セキュア化|tfukuha||[GitHub](https://github.com/Azure/jp-sqlsecurity)|
 ||ストレージ (NoSQL)|Cosmos DB|enishimu||[YouTube](https://aka.ms/ocpjptbdat003)|
 |||Blob Storage|tfukuha||[YouTube](https://aka.ms/ocpjptbinf005)|
 ||データ分析|Synapse Analytics|tfukuha||[YouTube](https://aka.ms/ocpjptbdat032)|
