@@ -312,6 +312,7 @@
 ||Azure Space Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-space-blog/bg-p/AzureSpaceBlog)|||
 ||Azure SQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog)|||
 ||Azure Stack Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog)|||
+||Azure Static Web Apps Blog|||[Blog](https://www.azurestaticwebapps.dev/blog)|||
 ||Azure Storage Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog)|||
 ||Azure Synapse Analytics Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)|||
 ||Azure Tools Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog)|||
