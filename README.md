@@ -281,6 +281,7 @@
 ||Ask the Directory Services Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS)|||
 ||Ask The Performance Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-performance-team/bg-p/AskPerf)|||
 ||Autonomous Systems Blog|||[Blog](https://techcommunity.microsoft.com/t5/autonomous-systems-blog/bg-p/AutonomousSystemsBlog)|||
+||Azure App Service Team Blog|||[Blog](https://azure.github.io/AppService/)|||
 ||Azure Arc Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog)|||
 ||Azure Architecture Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)|||
 ||Azure Communication Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-communication-services/bg-p/AzureCommunicationServicesBlog)|||
@@ -311,6 +312,7 @@
 ||Azure Space Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-space-blog/bg-p/AzureSpaceBlog)|||
 ||Azure SQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog)|||
 ||Azure Stack Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog)|||
+||Azure Static Web Apps Blog|||[Blog](https://www.azurestaticwebapps.dev/blog)|||
 ||Azure Storage Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog)|||
 ||Azure Synapse Analytics Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)|||
 ||Azure Tools Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog)|||
