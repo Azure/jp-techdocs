@@ -281,6 +281,7 @@
 ||Ask the Directory Services Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS)|||
 ||Ask The Performance Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-performance-team/bg-p/AskPerf)|||
 ||Autonomous Systems Blog|||[Blog](https://techcommunity.microsoft.com/t5/autonomous-systems-blog/bg-p/AutonomousSystemsBlog)|||
+||Azure App Service Team Blog|||[Blog](https://azure.github.io/AppService/)|||
 ||Azure Arc Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog)|||
 ||Azure Architecture Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)|||
 ||Azure Communication Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-communication-services/bg-p/AzureCommunicationServicesBlog)|||
