@@ -155,288 +155,297 @@
 
 ## 社員・チームBlog
 
-|分類|社員またはチーム|タグ|YouTube|Blog|GitHub|Qiita|その他|
-|:----|:----|:----|:----|:----|:----|:----|:----|
-|MSKK 社員|Qiita MS 社員ページ|||||[Qiita](https://qiita.com/organizations/microsoft)|
-||Annoske|DevOps||||[Qiita](https://qiita.com/Annoske)|
-||aomachi|AppService, Functions||||[Qiita](https://qiita.com/Atsushi_Omachi)|
-||asuzuki|Azure Network||||[Qiita](https://qiita.com/achu0628)|
-||dahatake|Data/AI||||[Qiita](https://qiita.com/dahatake)|
-||daisami|Azure, ASP.NET, Java||[Blog](https://normalian.hatenablog.com/)|||
-||dmaki|AppService||||[Qiita](https://qiita.com/dismakeu)|
-||ftokumitsu|||||[Qiita](https://qiita.com/toku345)|
-||haoqiangyou|Azure IaaS, k8s, Terraform||[Blog](https://hyoublog.com/)|||
-||hihigash|Azure DevOps||||[Qiita](https://qiita.com/hihigash)|
-||hihorika|AppService, Functions||[Blog](https://uncaughtexception.hatenablog.com/)|[GitHub](https://github.com/horihiro)|[Qiita](https://qiita.com/horihiro)|
-||hisnakad|MDfC, Sentinel||||[Qiita](https://qiita.com/hisnakad)|
-||hkashiwagi|D365|||[GitHub](https://github.com/hide6974)|[Qiita](https://qiita.com/hide6974)|
-||hyatsu|AppService||||[Qiita](https://qiita.com/hyatsu)|
-||ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)|
-||ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)|
-||jtsuchida|C#, Azure||||[Qiita](https://qiita.com/07JP27)|
-||junkitayama|AppDev|||[GitHub](https://github.com/jun110)|[Qiita](https://qiita.com/jun110)|
-||juyamagu|Azure Infra||[Blog](https://zenn.dev/openjny)|||
-||kahiro|Azure, .NET|||[GitHub](https://github.com/kazumihirose)|[Qiita](https://qiita.com/kazumihirose)|
-||kakusaya|Azure Infra||[Blog](https://www.michikusayan.com/)|[GitHub](https://github.com/kzk839)|[Qiita](https://qiita.com/KazukiKusaya)|
-||kaota|.NET|[YouTube](https://www.youtube.com/channel/UCi-IqYqwxd_NgTydJVCIQLg)|[Blog](https://blog.okazuki.jp)|[GitHub](https://github.com/runceel)|[Qiita](https://qiita.com/okazuki)|
-||kasakemi|Azure Infra||||[Qiita](https://qiita.com/shakemi)|
-||kenakamu|Azure|||[GitHub](https://github.com/kenakamu)|[Qiita](https://qiita.com/kenakamu)|
-||kenakay|Azure||[Blog](https://www.kentsu.website/)||[Qiita](https://qiita.com/KentoNaka)|
-||khigashi|AppService||||[Qiita](https://qiita.com/khigashi)|
-||koheisaito|Java||||[Qiita](https://qiita.com/kk31108424)|
-||koishizu|Azure Infra|||||
-||koishizu|Azure Infra|||[GitHub](https://github.com/zukakosan)|[Qiita](https://qiita.com/zukakosan)|
-||kokecross|DevOps||||[Qiita](https://qiita.com/KoKeCross)|
-||komayama|AppService, Functions||[Blog](https://mym.works/)||[Qiita](https://qiita.com/mym)|
-||komiyasa|Azure, AppDev|||[GitHub](https://github.com/komiyasa)|[Qiita](https://qiita.com/komiyasa)|
-||ktakahashi|Data/AI|||[GitHub](https://k14i.github.io/)||
-||kumukai|D365, PowerPlatform||||[Qiita](https://qiita.com/kumukai)|
-||machiy|AI, Bot||||[Qiita](https://qiita.com/chomado)|
-||mahiyama|Azure AD||||[Qiita](https://qiita.com/mahiya)|
-||maikoshima|AppService||||[Qiita](https://qiita.com/MaikoShima)|
-||makokui|AppService||||[Qiita](https://qiita.com/makokui)|
-||manabuoda|Azure, EA Portal||||[Qiita](https://qiita.com/manabuoda)|
-||manamitaira|AVD||||[Qiita](https://qiita.com/mana_cat)|
-||masatoueda|Azure Infra||||[Qiita](https://qiita.com/ueda_it)|
-||mikono|AppService||||[Qiita](https://qiita.com/superriver)|
-||mimochiz|Data/AI||||[Qiita](https://qiita.com/mimocihz)|
-||mnanri|Azure||||[Qiita](https://qiita.com/mnanri)|
-||nakama|.NET||[Blog](https://nakama.azurewebsites.net/)|[GitHub](https://github.com/nakamacchi/)||
-||naoshima|AppDev||[Blog](https://nt-blogs-nt-7.vercel.app/blog)||[Qiita](https://qiita.com/nt-7)|
-||nobukoyamada|LogicApp||||[Qiita](https://qiita.com/e99h2121)|
-||oliva|AppDev||||[Qiita](https://qiita.com/oliva)|
-||shnagata|Data/AI||||[Qiita](https://qiita.com/aical)|
-||shohe|AppService, Functons, Azure Stack||||[Qiita](https://qiita.com/shogo-ohe)|
-||shuda|Azure Infra|[YouTube](https://www.youtube.com/playlist?list=PLW6S2_dcoOggAeezwp1o7uSrsXSYUd0zZ)|[Blog](https://www.syuheiuda.com/)|[GitHub](https://github.com/ShuheiUda)||
-||shuit|Data/AI||||[Qiita](https://qiita.com/ShuntaIto)|
-||shyamag|Azure AD||||[Qiita](https://qiita.com/Shinya-Yamaguchi)|
-||skuramoto|D365||||[Qiita](https://qiita.com/skuramoto)|
-||So Nkbys|AppDev||||[Qiita](https://qiita.com/so_nkbys)|
-||taishimiyata|Data/AI||||[Qiita](https://qiita.com/tmiyata25)|
-||takeoka|AVD|||[GitHub](https://github.com/takeokams)|[Qiita](https://qiita.com/takeokams)|
-||tanagaya|||||[Qiita](https://qiita.com/takmnagaya)|
-||tatsumiy|Azure Infra||||[Qiita](https://qiita.com/aktsmm)|
-||taushiga|Azure Infra||[Blog](https://www.cloudou.net/)|||
-||tetsuyasodo|k8s|||[GitHub](https://github.com/tetsuyasodo)|[Qiita](https://qiita.com/tetsuyasodo)|
-||tkamiya|||||[Qiita](https://qiita.com/t3kot3ko)|
-||tkawabuchi|k8s||||[Qiita](https://qiita.com/tbuchi888)|
-||tokawa|Azure, AppDev|||[GitHub](https://github.com/tokawa-ms)|[Qiita](https://qiita.com/tokawa-ms)|
-||tomakabe|k8s||[Blog](https://torumakabe.github.io/)|||
-||toshida|AppService||[Blog](https://blog.toshida.org/)|[GitHub](https://github.com/georgeOsdDev)|[Qiita](https://qiita.com/georgeOsdDev@github)|
-||tsunomur|Azure Infra||||[Qiita](https://qiita.com/tsubasaxZZZ)|
-||tsushi|Functions|||[GitHub](https://github.com/TsuyoshiUshio)|[Qiita](https://qiita.com/TsuyoshiUshio@github)|
-||tsushi|DevOps, Functions||[Blog](https://simplearchitect.hatenablog.com/)|||
-||tuesaka|Azure AppDev||||[Qiita](https://qiita.com/takashiuesaka)|
-||wahaniya|AppDev|||[GitHub](https://github.com/watahani)|[Qiita](https://qiita.com/watahani)|
-||ymatsumoto|Azure Infra||[Blog](https://blog.aimless.jp/)|[GitHub](https://github.com/kongou-ae)||
-||yoichiozaki|Algorithm||[Blog](https://zakimal.github.io/ja/post/)|[GitHub](https://github.com/zakimal)|[Qiita](https://qiita.com/zak74702675)|
-||yoo|MDfC, Sentinel||||[Qiita](https://qiita.com/YoshiakiOi)|
-||yoterada|Java|[YouTube](https://www.youtube.com/c/YoshioTerada/videos)||[GitHub](https://github.com/yoshioterada)|[Qiita](https://qiita.com/yoshioterada)|
-||yukirii|k8s||[Blog](https://blog.yukirii.dev/)||[Qiita](https://qiita.com/yukirii)|
-||yukurash|AppService||||[Qiita](https://qiita.com/yukurash)|
-||yunasugimoto|AppService, Functions||||[Qiita](https://qiita.com/yuna-s)|
-||yusukekodama|Azure AD|||[GitHub](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)||
-||yutobo|AppService||||[Qiita](https://qiita.com/YusukeTobo)|
-||yuyon|AppDev||[Blog](https://yonehub.y10e.com/)||[Qiita](https://qiita.com/y10exxx)|
-|MSKK チーム|Japan CSS blog 一覧 (日本マイクロソフトサポート情報)|||[Blog](https://cssjpn.github.io/)|||
-||Exchange & Outlook サポート|Exchange||[Blog](https://jpmessaging.github.io/blog/)|||
-||SharePoint サポート チーム|SharePoint||[Blog](https://jpspsupport.github.io/blog/)|||
-||Office サポート チーム フォーラム|Office||[Blog](https://officesupportjp.github.io/blog/)|||
-||Microsoft Japan Unified Communication Support Team|Teams||[Blog](https://jpucsupport.github.io/blog/)|||
-||Japan Microsoft Intune Support Team|Intune||[Blog](https://jpmem.github.io/blog/)|||
-||Japan Azure IaaS and Networking Support Team|Azure IaaS, Networking||[Blog](https://jpaztech.github.io/blog/)|||
-||Azure Subscription Management Support Team|Azure Subscription||[Blog](https://jpazasms.github.io/blog/)|||
-||Japan CSS ABRS|Azure Backup, ASR, Migrate||[Blog](https://jpabrs-scem.github.io/blog/)|||
-||Japan Azure Monitoring Support Blog|Azure Monitor||[Blog](https://jpazmon-integ.github.io/blog/)|||
-||Japan Integration Support team|Logic Apps||[Blog](https://jpazinteg.github.io/blog/)|||
-||Japan Azure PaaS サポート チーム|Azure PaaS||[Blog](https://aka.ms/jpazpaasblog)|||
-||Azure Bot Service サポート チーム|Bot Service||[Blog](https://jpdsi.github.io/blog/)|||
-||Japan Azure Identity Support Blog|Azure AD||[Blog](https://jpazureid.github.io/blog/)|[GitHub](https://github.com/jpazureid/blog)||
-||Japan Azure Machine Learning サポート チーム|Azure ML||[Blog](https://jpmlblog.github.io/blog/)|||
-||Japan Azure Cognitive Services サポートチーム|Cognitive Services||[Blog](https://jpaiblog.github.io/blog/)|||
-||Japan IoT サポートチーム|IoT||[Blog](https://jpiotblog.github.io/blog/)|||
-||Microsoft Japan Windows Technology Support Blog|Windows||[Blog](https://jpwinsup.github.io/blog/)|||
-||Japan CSS Security Support Blog|Security||[Blog](https://jp-sec.github.io/blog/)|||
-||日本のセキュリティ チーム (Japan Security Team)|Security||[Blog](https://aka.ms/jpsecurity/)|||
-||Visual Studio サポート チーム|Visual Studio||[Blog](https://jpdscore.github.io/blog/)|||
-||Windows SDK サポート チーム|Windows||[Blog](https://jpdscore.github.io/blog/)|||
-||ASP.NET サポート チーム|ASP.NET||[Blog](https://jpdsi.github.io/blog/)|||
-||Windows Driver Kit サポートチーム|Windows||[Blog](https://jpwdkblog.github.io/blog/)|||
-||Edge/Internet Explorer (IE) サポート チーム|Edge||[Blog](https://jpdsi.github.io/blog/)|||
-||Internet Information Services (IIS) サポート チーム|IIS||[Blog](https://jpdsi.github.io/blog/)|||
-||Microsoft Japan BI Data Platform(SQL) Support Team|Power BI, SQL||[Blog](https://social.technet.microsoft.com/Forums/ja-JP/home?forum=jpbidp)|||
-||Power BI サポート チーム|Power BI||[Blog](https://jpbap-sqlbi.github.io/blog/)|||
-||Dynamics 365 CRM & Power Platform サポート|D365, PowerPlatform||[Blog](https://jpdynamicscrm.github.io/blog/)|||
-||Dynamics 365 Finance and Operations/AX サポート チーム|D365||[Blog](https://jpdynamicserp.github.io/blog/)|||
-||Japan FTA (FastTrack for Azure)|FTA|||[GitHub](https://github.com/Azure/fta-japan)||
-||Kusto 100+ knocks (FTA)|FTA|||[GitHub](https://azure.github.io/fta-kusto100knocks/)||
-||MPNJ (Microsoft Partner Network Japan)|Partner|[YouTube](https://www.youtube.com/@MicrosoftPartnerNetworkJapan)||||
-||日本マイクロソフト株式会社 公式チャンネル||[YouTube](https://www.youtube.com/user/microsoftjapanvideos)||||
-||Microsoft Base Blog|||[Blog](https://www.microsoft.com/ja-jp/events/azurebase/blog/)|||
-||Industry Blog|||[Blog](https://cloudblogs.microsoft.com/industry-blog/ja-jp/)|||
-|米国本社|Access Blog|||[Blog](https://techcommunity.microsoft.com/t5/access-blog/bg-p/AccessBlog)|||
-||AI - Applied AI Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog)|||
-||AI - Cognitive Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/bg-p/CognitiveServicesBlog)|||
-||AI - Customer Engineering Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/bg-p/AICustomerEngineeringTeam)|||
-||AI - Machine Learning Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog)|||
-||Analytics on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/bg-p/AnalyticsonAzure)|||
-||Apps on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog)|||
-||Ask the Directory Services Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS)|||
-||Ask The Performance Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-performance-team/bg-p/AskPerf)|||
-||Autonomous Systems Blog|||[Blog](https://techcommunity.microsoft.com/t5/autonomous-systems-blog/bg-p/AutonomousSystemsBlog)|||
-||Azure App Service Team Blog|||[Blog](https://azure.github.io/AppService/)|||
-||Azure Arc Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog)|||
-||Azure Architecture Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)|||
-||Azure Communication Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-communication-services/bg-p/AzureCommunicationServicesBlog)|||
-||Azure Compute Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-compute-blog/bg-p/AzureCompute)|||
-||Azure Confidential Computing Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-confidential-computing/bg-p/AzureConfidentialComputingBlog)|||
-||Azure Database for MySQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/bg-p/ADforMySQL)|||
-||Azure Database for PostgreSQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/bg-p/ADforPostgreSQL)|||
-||Azure Database Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-database-support-blog/bg-p/AzureDBSupport)|||
-||Azure Data Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-data-blog/bg-p/AzureDataBlog)|||
-||Azure Data Explorer Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer)|||
-||Azure Data Factory Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog)|||
-||Azure Developer Community Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog)|||
-||Azure DevOps Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-devops-blog/bg-p/AzureDevOps)|||
-||Azure for Operators Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-for-operators-blog/bg-p/AzureforOperatorsBlog)|||
-||Azure Global|||[Blog](https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT)|||
-||Azure Governance and Management Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog)|||
-||Azure High Performance Computing (HPC) Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/bg-p/AzureHighPerformanceComputingBlog)|||
-||Azure Infrastructure Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog)|||
-||Azure Lab Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-lab-services-blog/bg-p/AzureLabServicesBlog)|||
-||Azure Maps Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-maps-blog/bg-p/AzureMapsBlog)|||
-||Azure Marketplace Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/bg-p/AzureMarketplaceBlog)|||
-||Azure Migration and Modernization Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog)|||
-||Azure Networking Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog)|||
-||Azure Network Security Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)|||
-||Azure Observability Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog)|||
-||Azure PaaS Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog)|||
-||Azure Service Fabric Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric)|||
-||Azure Space Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-space-blog/bg-p/AzureSpaceBlog)|||
-||Azure SQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog)|||
-||Azure Stack Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog)|||
-||Azure Static Web Apps Blog|||[Blog](https://www.azurestaticwebapps.dev/blog)|||
-||Azure Storage Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog)|||
-||Azure Synapse Analytics Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)|||
-||Azure Tools Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog)|||
-||Azure Virtual Desktop Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog)|||
-||Bing Ads API Blog|||[Blog](https://techcommunity.microsoft.com/t5/bing-ads-api-blog/bg-p/AdsAPIBlog)|||
-||BizTalk Server Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/biztalk-server-team-blog/bg-p/BizTalkServerTeamBlog)|||
-||Community Ninjas Blog|||[Blog](https://techcommunity.microsoft.com/t5/community-ninjas-blog/bg-p/CommunityNinjasBlog)|||
-||Configuration Manager Archive|||[Blog](https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive)|||
-||Configuration Manager Blog|||[Blog](https://techcommunity.microsoft.com/t5/configuration-manager-blog/bg-p/ConfigurationManagerBlog)|||
-||Containers|||[Blog](https://techcommunity.microsoft.com/t5/containers/bg-p/Containers)|||
-||Core Infrastructure and Security Blog|||[Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)|||
-||Data Architecture Blog|||[Blog](https://techcommunity.microsoft.com/t5/data-architecture-blog/bg-p/DataArchitectureBlog)|||
-||Daylight Saving Time & Time Zone|||[Blog](https://techcommunity.microsoft.com/t5/daylight-saving-time-time-zone/bg-p/DSTBlog)|||
-||Desenvolvedores BR|||[Blog](https://techcommunity.microsoft.com/t5/desenvolvedores-br/bg-p/DesenvolvedoresBR)|||
-||Device Management in Microsoft|||[Blog](https://techcommunity.microsoft.com/t5/device-management-in-microsoft/bg-p/DeviceManagementMicrosoft)|||
-||Driving Adoption Blog|||[Blog](https://techcommunity.microsoft.com/t5/driving-adoption-blog/bg-p/DrivingAdoptionBlog)|||
-||Education Blog|||[Blog](https://techcommunity.microsoft.com/t5/education-blog/bg-p/EducationBlog)|||
-||Educator Developer Blog|||[Blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/bg-p/EducatorDeveloperBlog)|||
-||Edutech|||[Blog](https://techcommunity.microsoft.com/t5/edutech/bg-p/Edutech)|||
-||Excel Blog|||[Blog](https://techcommunity.microsoft.com/t5/excel-blog/bg-p/ExcelBlog)|||
-||Exchange Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)|||
-||Failover Clustering|||[Blog](https://techcommunity.microsoft.com/t5/failover-clustering/bg-p/FailoverClustering)|||
-||FastTrack App Assure Blog|||[Blog](https://techcommunity.microsoft.com/t5/fasttrack-app-assure-blog/bg-p/FastTrackAppAssure)|||
-||FastTrack Blog|||[Blog](https://techcommunity.microsoft.com/t5/fasttrack-blog/bg-p/FastTrackBlog)|||
-||FastTrack for Azure|||[Blog](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog)|||
-||Financial Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/financial-services-blog/bg-p/FinancialServicesBlog)|||
-||FSLogix Blog|||[Blog](https://techcommunity.microsoft.com/t5/fslogix-blog/bg-p/FSLogix-Blog)|||
-||Green Tech Blog|||[Blog](https://techcommunity.microsoft.com/t5/green-tech-blog/bg-p/GreenTechBlog)|||
-||Hardware Dev Center|||[Blog](https://techcommunity.microsoft.com/t5/hardware-dev-center/bg-p/HardwareDevCenter)|||
-||Healthcare and Life Sciences Blog|||[Blog](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog)|||
-||Host Integration Blog|||[Blog](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)|||
-||Humans of IT Blog|||[Blog](https://techcommunity.microsoft.com/t5/humans-of-it-blog/bg-p/HoIT-Blog)|||
-||Identity Standards Blog|||[Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)|||
-||IIS Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/iis-support-blog/bg-p/IIS-Support-Blog)|||
-||Integrations on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog)|||
-||Internet of Things Blog|||[Blog](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog)|||
-||Intune Customer Success|||[Blog](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess)|||
-||ITOps Talk Blog|||[Blog](https://techcommunity.microsoft.com/t5/itops-talk-blog/bg-p/ITOpsTalkBlog)|||
-||IT Resources & Training Blog|||[Blog](https://techcommunity.microsoft.com/t5/it-resources-training-blog/bg-p/ITResourcesBlog)|||
-||Manufacturing|||[Blog](https://techcommunity.microsoft.com/t5/manufacturing/bg-p/Manufacturing)|||
-||Media at Microsoft Blog|||[Blog](https://techcommunity.microsoft.com/t5/media-at-microsoft-blog/bg-p/MediaatMicrosoftBlog)|||
-||Messaging on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/bg-p/MessagingonAzureBlog)|||
-||Microsoft 365 Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog)|||
-||Microsoft 365 Defender Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog)|||
-||Microsoft Bluetooth Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-bluetooth-blog/bg-p/MicrosoftBluetoothBlog)|||
-||Microsoft Bookings Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)|||
-||Microsoft Data Migration Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration)|||
-||Microsoft Defender for Cloud Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog)|||
-||Microsoft Defender for Endpoint Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog)|||
-||Microsoft Defender for IoT Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog)|||
-||Microsoft Defender for Office 365 Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)|||
-||Microsoft Defender Threat Intelligence Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/bg-p/DefenderThreatIntelligence)|||
-||Microsoft Defender Vulnerability Management Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/bg-p/Vulnerability-Management)|||
-||Microsoft  Edge Insider|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-edge-insider/bg-p/MicrosoftEdgeInsider)|||
-||Microsoft Entra (Azure AD) Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity)|||
-||Microsoft Forms Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-forms-blog/bg-p/MicrosoftFormsBlog)|||
-||Microsoft Intune Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-intune-blog/bg-p/MicrosoftEndpointManagerBlog)|||
-||Microsoft Learn Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)|||
-||Microsoft Managed Desktop Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop)|||
-||Microsoft Mechanics Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/bg-p/MicrosoftMechanicsBlog)|||
-||Microsoft MVP Award Program Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/bg-p/MVPAwardProgramBlog)|||
-||Microsoft OneDrive Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)|||
-||Microsoft Purview Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog)|||
-||Microsoft Search Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog)|||
-||Microsoft Security Baselines Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines)|||
-||Microsoft Security Experts|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-security-experts/bg-p/MicrosoftSecurityExperts)|||
-||Microsoft Sensors Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog)|||
-||Microsoft Sentinel Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)|||
-||Microsoft SharePoint Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog)|||
-||Microsoft Stream Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog)|||
-||Microsoft Syntex|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-syntex/bg-p/MicrosoftSyntexBlog)|||
-||Microsoft Teams Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog)|||
-||Microsoft Teams Community Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog)|||
-||Microsoft Teams Support|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-support/bg-p/MicrosoftTeamsSupport)|||
-||Microsoft Tech Talks|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-tech-talks/bg-p/TechTalksBlog)|||
-||Microsoft To Do Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-to-do-blog/bg-p/To-DoBlog)|||
-||Microsoft USB Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-usb-blog/bg-p/MicrosoftUSBBlog)|||
-||Microsoft Viva Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/bg-p/MicrosoftVivaBlog)|||
-||Mixed Reality Blog|||[Blog](https://techcommunity.microsoft.com/t5/mixed-reality-blog/bg-p/TheMixedRealityBlog)|||
-||Mixed Reality Partners|||[Blog](https://techcommunity.microsoft.com/t5/mixed-reality-partners/bg-p/MixedRealityPartnersBlog)|||
-||Modernization Best Practices and Reusable Assets Blog|||[Blog](https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog)|||
-||Networking Blog|||[Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog)|||
-||NTA Techies|||[Blog](https://techcommunity.microsoft.com/t5/nta-techies/bg-p/NTATechiesblog-board)|||
-||Office 365 Blog|||[Blog](https://techcommunity.microsoft.com/t5/office-365-blog/bg-p/Office365Blog)|||
-||Office End Of Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/office-end-of-support-blog/bg-p/OfficeEOS)|||
-||Outlook Blog|||[Blog](https://techcommunity.microsoft.com/t5/outlook-blog/bg-p/Outlook)|||
-||Outlook Global Customer Service & Support Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/outlook-global-customer-service/bg-p/OutlookGlobalCustomerService)|||
-||Planner Blog|||[Blog](https://techcommunity.microsoft.com/t5/planner-blog/bg-p/PlannerBlog)|||
-||Project Blog|||[Blog](https://techcommunity.microsoft.com/t5/project-blog/bg-p/ProjectBlog)|||
-||Project Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/project-support-blog/bg-p/ProjectSupport)|||
-||Public Sector Blog|||[Blog](https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog)|||
-||Running SAP Applications on the Microsoft Platform|||[Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)|||
-||Security, Compliance, and Identity Blog|||[Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance)|||
-||SharePointDsc Blog|||[Blog](https://techcommunity.microsoft.com/t5/sharepointdsc-blog/bg-p/SharePointDsc)|||
-||Skype for Business Blog|||[Blog](https://techcommunity.microsoft.com/t5/skype-for-business-blog/bg-p/Skype_for_Business_Blog)|||
-||Skype for Business Ignite Blog|||[Blog](https://techcommunity.microsoft.com/t5/skype-for-business-ignite-blog/bg-p/SkypeforBusinessIgniteBlog)|||
-||Small and Medium Business Blog|||[Blog](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/bg-p/Microsoft365BusinessBlog)|||
-||Small Basic Blog|||[Blog](https://techcommunity.microsoft.com/t5/small-basic-blog/bg-p/SmallBasic)|||
-||SQL Server Blog|||[Blog](https://techcommunity.microsoft.com/t5/sql-server-blog/bg-p/SQLServer)|||
-||SQL Server Integration Services (SSIS) Blog|||[Blog](https://techcommunity.microsoft.com/t5/sql-server-integration-services/bg-p/SSIS)|||
-||SQL Server Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport)|||
-||Storage at Microsoft|||[Blog](https://techcommunity.microsoft.com/t5/storage-at-microsoft/bg-p/FileCAB)|||
-||Student Developer Blog|||[Blog](https://techcommunity.microsoft.com/t5/student-developer-blog/bg-p/StudentDeveloperBlog)|||
-||Surface IT Pro Blog|||[Blog](https://techcommunity.microsoft.com/t5/surface-it-pro-blog/bg-p/SurfaceITPro)|||
-||Sysinternals Blog|||[Blog](https://techcommunity.microsoft.com/t5/sysinternals-blog/bg-p/Sysinternals-Blog)|||
-||System Center Blog|||[Blog](https://techcommunity.microsoft.com/t5/system-center-blog/bg-p/SystemCenterBlog)|||
-||Tech Community Blog|||[Blog](https://techcommunity.microsoft.com/t5/tech-community-blog/bg-p/WeeklyRoundupBlog)|||
-||Test Base Blog|||[Blog](https://techcommunity.microsoft.com/t5/test-base-blog/bg-p/USL-Blog)|||
-||TestingSpot Blog|||[Blog](https://techcommunity.microsoft.com/t5/testingspot-blog/bg-p/TestingSpotBlog)|||
-||Universal Print Blog|||[Blog](https://techcommunity.microsoft.com/t5/universal-print-blog/bg-p/UniversalPrintBlog)|||
-||Virtualization|||[Blog](https://techcommunity.microsoft.com/t5/virtualization/bg-p/Virtualization)|||
-||Windows Admin Center Blog|||[Blog](https://techcommunity.microsoft.com/t5/windows-admin-center-blog/bg-p/Windows-Admin-Center-Blog)|||
-||Windows Blog Archive|||[Blog](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive)|||
-||Windows Dev AppConsult|||[Blog](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/bg-p/WindowsDevAppConsult)|||
-||Windows Hardware Certification|||[Blog](https://techcommunity.microsoft.com/t5/windows-hardware-certification/bg-p/WindowsHardwareCertification)|||
-||Windows IT Pro Blog|||[Blog](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/bg-p/Windows10Blog)|||
-||Windows Kernel Internals Blog|||[Blog](https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/bg-p/WindowsKernelInternals)|||
-||Windows Server Essentials and Small Business Server|||[Blog](https://techcommunity.microsoft.com/t5/windows-server-essentials-and/bg-p/SBS)|||
-||Windows Server News and Best Practices|||[Blog](https://techcommunity.microsoft.com/t5/windows-server-news-and-best/bg-p/WindowsServerNewsandBestPractices)|||
-||WinHEC Online Blog|||[Blog](https://techcommunity.microsoft.com/t5/winhec-online-blog/bg-p/WinHECOnlineBlog)|||
-||Yammer Blog|||[Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)|||
+### MSKK 社員
+|社員またはチーム|タグ|YouTube|Blog|GitHub|Qiita|その他|
+|:----|:----|:----|:----|:----|:----|:----|
+|Qiita MS 社員ページ|||||[Qiita](https://qiita.com/organizations/microsoft)||
+|Annoske|DevOps||||[Qiita](https://qiita.com/Annoske)||
+|aomachi|AppService, Functions||||[Qiita](https://qiita.com/Atsushi_Omachi)||
+|asuzuki|Azure Network||||[Qiita](https://qiita.com/achu0628)|[その他](https://hutene.com/)|
+|dahatake|Data/AI||||[Qiita](https://qiita.com/dahatake)||
+|daisami|Azure, ASP.NET, Java||[Blog](https://normalian.hatenablog.com/)||||
+|dmaki|AppService||||[Qiita](https://qiita.com/dismakeu)||
+|ftokumitsu|||||[Qiita](https://qiita.com/toku345)||
+|haoqiangyou|Azure IaaS, k8s, Terraform||[Blog](https://hyoublog.com/)||||
+|hihigash|Azure DevOps||||[Qiita](https://qiita.com/hihigash)||
+|hihorika|AppService, Functions||[Blog](https://uncaughtexception.hatenablog.com/)|[GitHub](https://github.com/horihiro)|[Qiita](https://qiita.com/horihiro)||
+|hisnakad|MDfC, Sentinel||||[Qiita](https://qiita.com/hisnakad)||
+|hkashiwagi|D365|||[GitHub](https://github.com/hide6974)|[Qiita](https://qiita.com/hide6974)||
+|hyatsu|AppService||||[Qiita](https://qiita.com/hyatsu)||
+|ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)||
+|ishiyam|Azure Infra||||[Qiita](https://qiita.com/Isato-Hiyama)||
+|jtsuchida|C#, Azure||||[Qiita](https://qiita.com/07JP27)||
+|junkitayama|AppDev|||[GitHub](https://github.com/jun110)|[Qiita](https://qiita.com/jun110)||
+|juyamagu|Azure Infra||[Blog](https://zenn.dev/openjny)||||
+|kahiro|Azure, .NET|||[GitHub](https://github.com/kazumihirose)|[Qiita](https://qiita.com/kazumihirose)||
+|kakusaya|Azure Infra||[Blog](https://www.michikusayan.com/)|[GitHub](https://github.com/kzk839)|[Qiita](https://qiita.com/KazukiKusaya)||
+|kaota|.NET|[YouTube](https://www.youtube.com/channel/UCi-IqYqwxd_NgTydJVCIQLg)|[Blog](https://blog.okazuki.jp)|[GitHub](https://github.com/runceel)|[Qiita](https://qiita.com/okazuki)|[その他](https://zenn.dev/okazuki)|
+|kasakemi|Azure Infra||||[Qiita](https://qiita.com/shakemi)|[その他](https://zenn.dev/skmkzyk)|
+|kenakamu|Azure|||[GitHub](https://github.com/kenakamu)|[Qiita](https://qiita.com/kenakamu)||
+|kenakay|Azure||[Blog](https://www.kentsu.website/)||[Qiita](https://qiita.com/KentoNaka)||
+|khigashi|AppService||||[Qiita](https://qiita.com/khigashi)||
+|koheisaito|Java||||[Qiita](https://qiita.com/kk31108424)||
+|koishizu|Azure Infra|||||[その他](https://zenn.dev/zukako)|
+|koishizu|Azure Infra|||[GitHub](https://github.com/zukakosan)|[Qiita](https://qiita.com/zukakosan)||
+|kokecross|DevOps||||[Qiita](https://qiita.com/KoKeCross)||
+|komayama|AppService, Functions||[Blog](https://mym.works/)||[Qiita](https://qiita.com/mym)||
+|komiyasa|Azure, AppDev|||[GitHub](https://github.com/komiyasa)|[Qiita](https://qiita.com/komiyasa)||
+|ktakahashi|Data/AI|||[GitHub](https://k14i.github.io/)|||
+|kumukai|D365, PowerPlatform||||[Qiita](https://qiita.com/kumukai)||
+|machiy|AI, Bot||||[Qiita](https://qiita.com/chomado)||
+|mahiyama|Azure AD||||[Qiita](https://qiita.com/mahiya)||
+|maikoshima|AppService||||[Qiita](https://qiita.com/MaikoShima)||
+|makokui|AppService||||[Qiita](https://qiita.com/makokui)||
+|manabuoda|Azure, EA Portal||||[Qiita](https://qiita.com/manabuoda)||
+|manamitaira|AVD||||[Qiita](https://qiita.com/mana_cat)||
+|masatoueda|Azure Infra||||[Qiita](https://qiita.com/ueda_it)||
+|mikono|AppService||||[Qiita](https://qiita.com/superriver)||
+|mimochiz|Data/AI||||[Qiita](https://qiita.com/mimocihz)||
+|mnanri|Azure||||[Qiita](https://qiita.com/mnanri)||
+|nakama|.NET||[Blog](https://nakama.azurewebsites.net/)|[GitHub](https://github.com/nakamacchi/)|||
+|naoshima|AppDev||[Blog](https://nt-blogs-nt-7.vercel.app/blog)||[Qiita](https://qiita.com/nt-7)||
+|nobukoyamada|LogicApp||||[Qiita](https://qiita.com/e99h2121)||
+|oliva|AppDev||||[Qiita](https://qiita.com/oliva)||
+|shnagata|Data/AI||||[Qiita](https://qiita.com/aical)||
+|shohe|AppService, Functons, Azure Stack||||[Qiita](https://qiita.com/shogo-ohe)||
+|shuda|Azure Infra|[YouTube](https://www.youtube.com/playlist?list=PLW6S2_dcoOggAeezwp1o7uSrsXSYUd0zZ)|[Blog](https://www.syuheiuda.com/)|[GitHub](https://github.com/ShuheiUda)|||
+|shuit|Data/AI||||[Qiita](https://qiita.com/ShuntaIto)||
+|shyamag|Azure AD||||[Qiita](https://qiita.com/Shinya-Yamaguchi)||
+|skuramoto|D365||||[Qiita](https://qiita.com/skuramoto)||
+|So Nkbys|AppDev||||[Qiita](https://qiita.com/so_nkbys)||
+|taishimiyata|Data/AI||||[Qiita](https://qiita.com/tmiyata25)||
+|takeoka|AVD|||[GitHub](https://github.com/takeokams)|[Qiita](https://qiita.com/takeokams)||
+|tanagaya|||||[Qiita](https://qiita.com/takmnagaya)||
+|tatsumiy|Azure Infra||||[Qiita](https://qiita.com/aktsmm)||
+|taushiga|Azure Infra||[Blog](https://www.cloudou.net/)||||
+|tetsuyasodo|k8s|||[GitHub](https://github.com/tetsuyasodo)|[Qiita](https://qiita.com/tetsuyasodo)||
+|tkamiya|||||[Qiita](https://qiita.com/t3kot3ko)||
+|tkawabuchi|k8s||||[Qiita](https://qiita.com/tbuchi888)||
+|tokawa|Azure, AppDev|||[GitHub](https://github.com/tokawa-ms)|[Qiita](https://qiita.com/tokawa-ms)||
+|tomakabe|k8s||[Blog](https://torumakabe.github.io/)||||
+|toshida|AppService||[Blog](https://blog.toshida.org/)|[GitHub](https://github.com/georgeOsdDev)|[Qiita](https://qiita.com/georgeOsdDev@github)||
+|tsunomur|Azure Infra||||[Qiita](https://qiita.com/tsubasaxZZZ)||
+|tsushi|Functions|||[GitHub](https://github.com/TsuyoshiUshio)|[Qiita](https://qiita.com/TsuyoshiUshio@github)||
+|tsushi|DevOps, Functions||[Blog](https://simplearchitect.hatenablog.com/)|||[その他](https://note.com/simplearchitect/)|
+|tuesaka|Azure AppDev||||[Qiita](https://qiita.com/takashiuesaka)||
+|wahaniya|AppDev|||[GitHub](https://github.com/watahani)|[Qiita](https://qiita.com/watahani)||
+|ymatsumoto|Azure Infra||[Blog](https://blog.aimless.jp/)|[GitHub](https://github.com/kongou-ae)|||
+|yoichiozaki|Algorithm||[Blog](https://zakimal.github.io/ja/post/)|[GitHub](https://github.com/zakimal)|[Qiita](https://qiita.com/zak74702675)||
+|yoo|MDfC, Sentinel||||[Qiita](https://qiita.com/YoshiakiOi)||
+|yoterada|Java|[YouTube](https://www.youtube.com/c/YoshioTerada/videos)||[GitHub](https://github.com/yoshioterada)|[Qiita](https://qiita.com/yoshioterada)||
+|yukirii|k8s||[Blog](https://blog.yukirii.dev/)||[Qiita](https://qiita.com/yukirii)||
+|yukurash|AppService||||[Qiita](https://qiita.com/yukurash)||
+|yunasugimoto|AppService, Functions||||[Qiita](https://qiita.com/yuna-s)||
+|yusukekodama|Azure AD|||[GitHub](https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md)|||
+|yutobo|AppService||||[Qiita](https://qiita.com/YusukeTobo)||
+|yuyon|AppDev||[Blog](https://yonehub.y10e.com/)||[Qiita](https://qiita.com/y10exxx)||
+### MSKK チーム
+|社員またはチーム|タグ|YouTube|Blog|GitHub|Qiita|その他|
+|:----|:----|:----|:----|:----|:----|:----|
+|MSKK 主催・協賛の Azure 関連セミナー・Webinar ①||||||[その他](https://www.microsoft.com/ja-jp/events/search/result.aspx?pg=azure)|
+|MSKK 主催・協賛の Azure 関連セミナー・Webinar ②||||||[その他](https://events.microsoft.com/ja-jp/Azure)|
+|Japan CSS blog 一覧 (日本マイクロソフトサポート情報)|||[Blog](https://cssjpn.github.io/)||||
+|Exchange & Outlook サポート|Exchange||[Blog](https://jpmessaging.github.io/blog/)||||
+|SharePoint サポート チーム|SharePoint||[Blog](https://jpspsupport.github.io/blog/)||||
+|Office サポート チーム フォーラム|Office||[Blog](https://officesupportjp.github.io/blog/)||||
+|Microsoft Japan Unified Communication Support Team|Teams||[Blog](https://jpucsupport.github.io/blog/)||||
+|Japan Microsoft Intune Support Team|Intune||[Blog](https://jpmem.github.io/blog/)||||
+|Japan Azure IaaS and Networking Support Team|Azure IaaS, Networking||[Blog](https://jpaztech.github.io/blog/)||||
+|Azure Subscription Management Support Team|Azure Subscription||[Blog](https://jpazasms.github.io/blog/)||||
+|Japan CSS ABRS|Azure Backup, ASR, Migrate||[Blog](https://jpabrs-scem.github.io/blog/)||||
+|Japan Azure Monitoring Support Blog|Azure Monitor||[Blog](https://jpazmon-integ.github.io/blog/)||||
+|Japan Integration Support team|Logic Apps||[Blog](https://jpazinteg.github.io/blog/)||||
+|Japan Azure PaaS サポート チーム|Azure PaaS||[Blog](https://aka.ms/jpazpaasblog)||||
+|Azure Bot Service サポート チーム|Bot Service||[Blog](https://jpdsi.github.io/blog/)||||
+|Japan Azure Identity Support Blog|Azure AD||[Blog](https://jpazureid.github.io/blog/)|[GitHub](https://github.com/jpazureid/blog)|||
+|Japan Azure Machine Learning サポート チーム|Azure ML||[Blog](https://jpmlblog.github.io/blog/)||||
+|Japan Azure Cognitive Services サポートチーム|Cognitive Services||[Blog](https://jpaiblog.github.io/blog/)||||
+|Japan IoT サポートチーム|IoT||[Blog](https://jpiotblog.github.io/blog/)||||
+|Microsoft Japan Windows Technology Support Blog|Windows||[Blog](https://jpwinsup.github.io/blog/)||||
+|Japan CSS Security Support Blog|Security||[Blog](https://jp-sec.github.io/blog/)||||
+|日本のセキュリティ チーム (Japan Security Team)|Security||[Blog](https://aka.ms/jpsecurity/)||||
+|Visual Studio サポート チーム|Visual Studio||[Blog](https://jpdscore.github.io/blog/)||||
+|Windows SDK サポート チーム|Windows||[Blog](https://jpdscore.github.io/blog/)||||
+|ASP.NET サポート チーム|ASP.NET||[Blog](https://jpdsi.github.io/blog/)||||
+|Windows Driver Kit サポートチーム|Windows||[Blog](https://jpwdkblog.github.io/blog/)||||
+|Edge/Internet Explorer (IE) サポート チーム|Edge||[Blog](https://jpdsi.github.io/blog/)||||
+|Internet Information Services (IIS) サポート チーム|IIS||[Blog](https://jpdsi.github.io/blog/)||||
+|Microsoft Japan BI Data Platform(SQL) Support Team|Power BI, SQL||[Blog](https://social.technet.microsoft.com/Forums/ja-JP/home?forum=jpbidp)||||
+|Power BI サポート チーム|Power BI||[Blog](https://jpbap-sqlbi.github.io/blog/)||||
+|Dynamics 365 CRM & Power Platform サポート|D365, PowerPlatform||[Blog](https://jpdynamicscrm.github.io/blog/)||||
+|Dynamics 365 Finance and Operations/AX サポート チーム|D365||[Blog](https://jpdynamicserp.github.io/blog/)||||
+|Japan FTA (FastTrack for Azure)|FTA|||[GitHub](https://github.com/Azure/fta-japan)|||
+|Kusto 100+ knocks (FTA)|FTA|||[GitHub](https://azure.github.io/fta-kusto100knocks/)|||
+|MPNJ (Microsoft Partner Network Japan)|Partner|[YouTube](https://www.youtube.com/@MicrosoftPartnerNetworkJapan)|||||
+|日本マイクロソフト株式会社 公式チャンネル||[YouTube](https://www.youtube.com/user/microsoftjapanvideos)|||||
+|Microsoft Base Blog|||[Blog](https://www.microsoft.com/ja-jp/events/azurebase/blog/)||||
+|Industry Blog|||[Blog](https://cloudblogs.microsoft.com/industry-blog/ja-jp/)||||
+### 米国本社
+|社員またはチーム|タグ|YouTube|Blog|GitHub|Qiita|その他|
+|:----|:----|:----|:----|:----|:----|:----|
+|Access Blog|||[Blog](https://techcommunity.microsoft.com/t5/access-blog/bg-p/AccessBlog)||||
+|AI - Applied AI Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog)||||
+|AI - Cognitive Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/bg-p/CognitiveServicesBlog)||||
+|AI - Customer Engineering Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/bg-p/AICustomerEngineeringTeam)||||
+|AI - Machine Learning Blog|||[Blog](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog)||||
+|Analytics on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/bg-p/AnalyticsonAzure)||||
+|Apps on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog)||||
+|Ask the Directory Services Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS)||||
+|Ask The Performance Team|||[Blog](https://techcommunity.microsoft.com/t5/ask-the-performance-team/bg-p/AskPerf)||||
+|Autonomous Systems Blog|||[Blog](https://techcommunity.microsoft.com/t5/autonomous-systems-blog/bg-p/AutonomousSystemsBlog)||||
+|Azure App Service Team Blog|||[Blog](https://azure.github.io/AppService/)||||
+|Azure Arc Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog)||||
+|Azure Architecture Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)||||
+|Azure Communication Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-communication-services/bg-p/AzureCommunicationServicesBlog)||||
+|Azure Compute Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-compute-blog/bg-p/AzureCompute)||||
+|Azure Confidential Computing Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-confidential-computing/bg-p/AzureConfidentialComputingBlog)||||
+|Azure Database for MySQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/bg-p/ADforMySQL)||||
+|Azure Database for PostgreSQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/bg-p/ADforPostgreSQL)||||
+|Azure Database Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-database-support-blog/bg-p/AzureDBSupport)||||
+|Azure Data Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-data-blog/bg-p/AzureDataBlog)||||
+|Azure Data Explorer Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer)||||
+|Azure Data Factory Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog)||||
+|Azure Developer Community Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog)||||
+|Azure DevOps Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-devops-blog/bg-p/AzureDevOps)||||
+|Azure for Operators Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-for-operators-blog/bg-p/AzureforOperatorsBlog)||||
+|Azure Global|||[Blog](https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT)||||
+|Azure Governance and Management Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog)||||
+|Azure High Performance Computing (HPC) Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/bg-p/AzureHighPerformanceComputingBlog)||||
+|Azure Infrastructure Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog)||||
+|Azure Lab Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-lab-services-blog/bg-p/AzureLabServicesBlog)||||
+|Azure Maps Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-maps-blog/bg-p/AzureMapsBlog)||||
+|Azure Marketplace Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/bg-p/AzureMarketplaceBlog)||||
+|Azure Migration and Modernization Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog)||||
+|Azure Networking Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog)||||
+|Azure Network Security Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)||||
+|Azure Observability Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog)||||
+|Azure PaaS Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog)||||
+|Azure Service Fabric Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric)||||
+|Azure Space Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-space-blog/bg-p/AzureSpaceBlog)||||
+|Azure SQL Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog)||||
+|Azure Stack Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog)||||
+|Azure Static Web Apps Blog|||[Blog](https://www.azurestaticwebapps.dev/blog)||||
+|Azure Storage Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog)||||
+|Azure Synapse Analytics Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)||||
+|Azure Tools Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog)||||
+|Azure Virtual Desktop Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog)||||
+|Bing Ads API Blog|||[Blog](https://techcommunity.microsoft.com/t5/bing-ads-api-blog/bg-p/AdsAPIBlog)||||
+|BizTalk Server Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/biztalk-server-team-blog/bg-p/BizTalkServerTeamBlog)||||
+|Community Ninjas Blog|||[Blog](https://techcommunity.microsoft.com/t5/community-ninjas-blog/bg-p/CommunityNinjasBlog)||||
+|Configuration Manager Archive|||[Blog](https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive)||||
+|Configuration Manager Blog|||[Blog](https://techcommunity.microsoft.com/t5/configuration-manager-blog/bg-p/ConfigurationManagerBlog)||||
+|Containers|||[Blog](https://techcommunity.microsoft.com/t5/containers/bg-p/Containers)||||
+|Core Infrastructure and Security Blog|||[Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog)||||
+|Data Architecture Blog|||[Blog](https://techcommunity.microsoft.com/t5/data-architecture-blog/bg-p/DataArchitectureBlog)||||
+|Daylight Saving Time & Time Zone|||[Blog](https://techcommunity.microsoft.com/t5/daylight-saving-time-time-zone/bg-p/DSTBlog)||||
+|Desenvolvedores BR|||[Blog](https://techcommunity.microsoft.com/t5/desenvolvedores-br/bg-p/DesenvolvedoresBR)||||
+|Device Management in Microsoft|||[Blog](https://techcommunity.microsoft.com/t5/device-management-in-microsoft/bg-p/DeviceManagementMicrosoft)||||
+|Driving Adoption Blog|||[Blog](https://techcommunity.microsoft.com/t5/driving-adoption-blog/bg-p/DrivingAdoptionBlog)||||
+|Education Blog|||[Blog](https://techcommunity.microsoft.com/t5/education-blog/bg-p/EducationBlog)||||
+|Educator Developer Blog|||[Blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/bg-p/EducatorDeveloperBlog)||||
+|Edutech|||[Blog](https://techcommunity.microsoft.com/t5/edutech/bg-p/Edutech)||||
+|Excel Blog|||[Blog](https://techcommunity.microsoft.com/t5/excel-blog/bg-p/ExcelBlog)||||
+|Exchange Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)||||
+|Failover Clustering|||[Blog](https://techcommunity.microsoft.com/t5/failover-clustering/bg-p/FailoverClustering)||||
+|FastTrack App Assure Blog|||[Blog](https://techcommunity.microsoft.com/t5/fasttrack-app-assure-blog/bg-p/FastTrackAppAssure)||||
+|FastTrack Blog|||[Blog](https://techcommunity.microsoft.com/t5/fasttrack-blog/bg-p/FastTrackBlog)||||
+|FastTrack for Azure|||[Blog](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog)||||
+|Financial Services Blog|||[Blog](https://techcommunity.microsoft.com/t5/financial-services-blog/bg-p/FinancialServicesBlog)||||
+|FSLogix Blog|||[Blog](https://techcommunity.microsoft.com/t5/fslogix-blog/bg-p/FSLogix-Blog)||||
+|Green Tech Blog|||[Blog](https://techcommunity.microsoft.com/t5/green-tech-blog/bg-p/GreenTechBlog)||||
+|Hardware Dev Center|||[Blog](https://techcommunity.microsoft.com/t5/hardware-dev-center/bg-p/HardwareDevCenter)||||
+|Healthcare and Life Sciences Blog|||[Blog](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog)||||
+|Host Integration Blog|||[Blog](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)||||
+|Humans of IT Blog|||[Blog](https://techcommunity.microsoft.com/t5/humans-of-it-blog/bg-p/HoIT-Blog)||||
+|Identity Standards Blog|||[Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)||||
+|IIS Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/iis-support-blog/bg-p/IIS-Support-Blog)||||
+|Integrations on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog)||||
+|Internet of Things Blog|||[Blog](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog)||||
+|Intune Customer Success|||[Blog](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess)||||
+|ITOps Talk Blog|||[Blog](https://techcommunity.microsoft.com/t5/itops-talk-blog/bg-p/ITOpsTalkBlog)||||
+|IT Resources & Training Blog|||[Blog](https://techcommunity.microsoft.com/t5/it-resources-training-blog/bg-p/ITResourcesBlog)||||
+|Manufacturing|||[Blog](https://techcommunity.microsoft.com/t5/manufacturing/bg-p/Manufacturing)||||
+|Media at Microsoft Blog|||[Blog](https://techcommunity.microsoft.com/t5/media-at-microsoft-blog/bg-p/MediaatMicrosoftBlog)||||
+|Messaging on Azure Blog|||[Blog](https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/bg-p/MessagingonAzureBlog)||||
+|Microsoft 365 Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog)||||
+|Microsoft 365 Defender Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog)||||
+|Microsoft Bluetooth Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-bluetooth-blog/bg-p/MicrosoftBluetoothBlog)||||
+|Microsoft Bookings Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)||||
+|Microsoft Data Migration Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration)||||
+|Microsoft Defender for Cloud Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog)||||
+|Microsoft Defender for Endpoint Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog)||||
+|Microsoft Defender for IoT Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog)||||
+|Microsoft Defender for Office 365 Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)||||
+|Microsoft Defender Threat Intelligence Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/bg-p/DefenderThreatIntelligence)||||
+|Microsoft Defender Vulnerability Management Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/bg-p/Vulnerability-Management)||||
+|Microsoft  Edge Insider|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-edge-insider/bg-p/MicrosoftEdgeInsider)||||
+|Microsoft Entra (Azure AD) Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity)||||
+|Microsoft Forms Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-forms-blog/bg-p/MicrosoftFormsBlog)||||
+|Microsoft Intune Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-intune-blog/bg-p/MicrosoftEndpointManagerBlog)||||
+|Microsoft Learn Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)||||
+|Microsoft Managed Desktop Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop)||||
+|Microsoft Mechanics Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/bg-p/MicrosoftMechanicsBlog)||||
+|Microsoft MVP Award Program Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/bg-p/MVPAwardProgramBlog)||||
+|Microsoft OneDrive Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)||||
+|Microsoft Purview Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog)||||
+|Microsoft Search Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog)||||
+|Microsoft Security Baselines Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines)||||
+|Microsoft Security Experts|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-security-experts/bg-p/MicrosoftSecurityExperts)||||
+|Microsoft Sensors Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog)||||
+|Microsoft Sentinel Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog)||||
+|Microsoft SharePoint Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog)||||
+|Microsoft Stream Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog)||||
+|Microsoft Syntex|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-syntex/bg-p/MicrosoftSyntexBlog)||||
+|Microsoft Teams Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog)||||
+|Microsoft Teams Community Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog)||||
+|Microsoft Teams Support|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-support/bg-p/MicrosoftTeamsSupport)||||
+|Microsoft Tech Talks|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-tech-talks/bg-p/TechTalksBlog)||||
+|Microsoft To Do Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-to-do-blog/bg-p/To-DoBlog)||||
+|Microsoft USB Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-usb-blog/bg-p/MicrosoftUSBBlog)||||
+|Microsoft Viva Blog|||[Blog](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/bg-p/MicrosoftVivaBlog)||||
+|Mixed Reality Blog|||[Blog](https://techcommunity.microsoft.com/t5/mixed-reality-blog/bg-p/TheMixedRealityBlog)||||
+|Mixed Reality Partners|||[Blog](https://techcommunity.microsoft.com/t5/mixed-reality-partners/bg-p/MixedRealityPartnersBlog)||||
+|Modernization Best Practices and Reusable Assets Blog|||[Blog](https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog)||||
+|Networking Blog|||[Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog)||||
+|NTA Techies|||[Blog](https://techcommunity.microsoft.com/t5/nta-techies/bg-p/NTATechiesblog-board)||||
+|Office 365 Blog|||[Blog](https://techcommunity.microsoft.com/t5/office-365-blog/bg-p/Office365Blog)||||
+|Office End Of Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/office-end-of-support-blog/bg-p/OfficeEOS)||||
+|Outlook Blog|||[Blog](https://techcommunity.microsoft.com/t5/outlook-blog/bg-p/Outlook)||||
+|Outlook Global Customer Service & Support Team Blog|||[Blog](https://techcommunity.microsoft.com/t5/outlook-global-customer-service/bg-p/OutlookGlobalCustomerService)||||
+|Planner Blog|||[Blog](https://techcommunity.microsoft.com/t5/planner-blog/bg-p/PlannerBlog)||||
+|Project Blog|||[Blog](https://techcommunity.microsoft.com/t5/project-blog/bg-p/ProjectBlog)||||
+|Project Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/project-support-blog/bg-p/ProjectSupport)||||
+|Public Sector Blog|||[Blog](https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog)||||
+|Running SAP Applications on the Microsoft Platform|||[Blog](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications)||||
+|Security, Compliance, and Identity Blog|||[Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance)||||
+|SharePointDsc Blog|||[Blog](https://techcommunity.microsoft.com/t5/sharepointdsc-blog/bg-p/SharePointDsc)||||
+|Skype for Business Blog|||[Blog](https://techcommunity.microsoft.com/t5/skype-for-business-blog/bg-p/Skype_for_Business_Blog)||||
+|Skype for Business Ignite Blog|||[Blog](https://techcommunity.microsoft.com/t5/skype-for-business-ignite-blog/bg-p/SkypeforBusinessIgniteBlog)||||
+|Small and Medium Business Blog|||[Blog](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/bg-p/Microsoft365BusinessBlog)||||
+|Small Basic Blog|||[Blog](https://techcommunity.microsoft.com/t5/small-basic-blog/bg-p/SmallBasic)||||
+|SQL Server Blog|||[Blog](https://techcommunity.microsoft.com/t5/sql-server-blog/bg-p/SQLServer)||||
+|SQL Server Integration Services (SSIS) Blog|||[Blog](https://techcommunity.microsoft.com/t5/sql-server-integration-services/bg-p/SSIS)||||
+|SQL Server Support Blog|||[Blog](https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport)||||
+|Storage at Microsoft|||[Blog](https://techcommunity.microsoft.com/t5/storage-at-microsoft/bg-p/FileCAB)||||
+|Student Developer Blog|||[Blog](https://techcommunity.microsoft.com/t5/student-developer-blog/bg-p/StudentDeveloperBlog)||||
+|Surface IT Pro Blog|||[Blog](https://techcommunity.microsoft.com/t5/surface-it-pro-blog/bg-p/SurfaceITPro)||||
+|Sysinternals Blog|||[Blog](https://techcommunity.microsoft.com/t5/sysinternals-blog/bg-p/Sysinternals-Blog)||||
+|System Center Blog|||[Blog](https://techcommunity.microsoft.com/t5/system-center-blog/bg-p/SystemCenterBlog)||||
+|Tech Community Blog|||[Blog](https://techcommunity.microsoft.com/t5/tech-community-blog/bg-p/WeeklyRoundupBlog)||||
+|Test Base Blog|||[Blog](https://techcommunity.microsoft.com/t5/test-base-blog/bg-p/USL-Blog)||||
+|TestingSpot Blog|||[Blog](https://techcommunity.microsoft.com/t5/testingspot-blog/bg-p/TestingSpotBlog)||||
+|Universal Print Blog|||[Blog](https://techcommunity.microsoft.com/t5/universal-print-blog/bg-p/UniversalPrintBlog)||||
+|Virtualization|||[Blog](https://techcommunity.microsoft.com/t5/virtualization/bg-p/Virtualization)||||
+|Windows Admin Center Blog|||[Blog](https://techcommunity.microsoft.com/t5/windows-admin-center-blog/bg-p/Windows-Admin-Center-Blog)||||
+|Windows Blog Archive|||[Blog](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive)||||
+|Windows Dev AppConsult|||[Blog](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/bg-p/WindowsDevAppConsult)||||
+|Windows Hardware Certification|||[Blog](https://techcommunity.microsoft.com/t5/windows-hardware-certification/bg-p/WindowsHardwareCertification)||||
+|Windows IT Pro Blog|||[Blog](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/bg-p/Windows10Blog)||||
+|Windows Kernel Internals Blog|||[Blog](https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/bg-p/WindowsKernelInternals)||||
+|Windows Server Essentials and Small Business Server|||[Blog](https://techcommunity.microsoft.com/t5/windows-server-essentials-and/bg-p/SBS)||||
+|Windows Server News and Best Practices|||[Blog](https://techcommunity.microsoft.com/t5/windows-server-news-and-best/bg-p/WindowsServerNewsandBestPractices)||||
+|WinHEC Online Blog|||[Blog](https://techcommunity.microsoft.com/t5/winhec-online-blog/bg-p/WinHECOnlineBlog)||||
+|Yammer Blog|||[Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)||||
 
 
 ## Contributing
