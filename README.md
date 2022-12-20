@@ -33,7 +33,8 @@
 |||コンテナ技術入門|nakama|★|[ppt](https://download.microsoft.com/download/3/f/7/3f7ac344-01c4-4c7f-8509-85bcc7371d9f/FgCF_130_CaaS_Container_Super_introduction_v0.03.pptx) [mp4](https://download.microsoft.com/download/5/7/6/5763af79-e5c0-4a37-86a5-e875581a5393/FgCF_130_CaaS_Container_Super_introduction_v0.03.zip)|
 |||k8s on Azure 入門|shiasa||[YouTube](https://aka.ms/ocpjptbapp041)|
 |||REST API 呼び出し 入門|hihorika||[YouTube](https://aka.ms/ocpjptbapp020)|
-||アプリ開発技術選択|最適な実行環境の選び方|yoterada||[YouTube](https://www.youtube.com/watch?v=0pmLbsj9sgQ)|
+||アプリ開発技術選択|IaaS/CaaS/PaaS の使い分け|nakama|★|[ppt](https://aka.ms/AAj0yh3)|
+|||最適な実行環境の選び方|yoterada||[YouTube](https://www.youtube.com/watch?v=0pmLbsj9sgQ)|
 |||サーバレス技術の使い分け|osamum||[YouTube](https://aka.ms/ocpjptbapp021)|
 |||マイクロサービス開発技術|inkyokut||[YouTube](https://www.youtube.com/watch?v=yNowq1VNPFs)|
 |||Java on Microsoft|yoterada||[YouTube](https://www.youtube.com/watch?v=Zk-LbJkmIyg)|
@@ -76,6 +77,7 @@
 |||VM シリーズ・サイズ選択|kakikuch||[YouTube](https://www.youtube.com/watch?v=U9AkACxNWuo)|
 |||IaaS VM 解説 (旧)|nakama||[ppt](https://download.microsoft.com/download/9/a/2/9a258748-936b-4b43-b127-2adc616e70d7/FgCF_①_3_SecurityBaseline(IaaS)_v1.00.pptx) [mp4](https://download.microsoft.com/download/d/6/0/d60816c1-47d8-4e7f-9a3a-ef404b441104/2020_01_17_FgCF_SecurityBaseline(IaaS)_v1.00_SplitVersion.zip) [YouTube](https://www.youtube.com/watch?v=S3A4Q9qRcCs)|
 |||IaaS VM 管理ガイド|nakama|★★|[ppt](https://aka.ms/AAj08w4) [doc](https://aka.ms/AAj0ggu) [mp4 (前半)](https://aka.ms/AAj08w6) [mp4 (後半)](https://aka.ms/AAj0ggw)|
+|||Confidential Computing|nakama||[ppt](https://aka.ms/AAj1dsr) [mp4](https://aka.ms/AAj1op4)|
 |||Azure Migrate|kosetoguchi||[YouTube](https://www.youtube.com/watch?v=9F-ZKtQcVAo)|
 ||CaaS|AKS|nakama||[ppt](https://download.microsoft.com/download/6/4/c/64c7f727-7712-49e7-a95e-7aa19e412e68/2020_04_25_AKS_TechnicalReference_v0.14(ppt).zip) [mp4(1)](https://download.microsoft.com/download/6/6/c/66c3ab0e-3d15-4e79-8377-a2880f1569b2/2020_04_25_AKS_TechnicalReference_v0.14(video1).zip) [mp4(2)](https://download.microsoft.com/download/9/7/8/97858185-ba75-48a3-a931-72092b5c1279/2020_04_25_AKS_TechnicalReference_v0.14(video2).zip) [doc](https://download.microsoft.com/download/d/e/1/de1f3cf0-8589-4e21-a4e0-4d9bd7de8291/FgCF_132_CaaS_AKS_TechnicalReference_Buildingsample_app_v0.13.zip) [mp4(3)](https://download.microsoft.com/download/b/a/8/ba8a9c96-4fc8-43ed-8309-9624d1a45779/2020_04_25_AKS_TechnicalReference_v0.14(video3).zip) [YouTube(1)](https://www.youtube.com/watch?v=t-qqjCLwcQo) [YouTube(2)](https://www.youtube.com/watch?v=qSyhyO6QRcY) [YouTube(3)](https://www.youtube.com/watch?v=-X1QHzsOhBo)|
 |||ARO|tetsuyasodo||[ppt](https://download.microsoft.com/download/8/d/1/8d130c64-7aaa-4416-bec6-70c910c6d5df/FgCF_133_CaaS_ARO_TechnicalReference_v0.14.pptx) [doc](https://download.microsoft.com/download/a/8/5/a855ac44-bee0-4d1a-9f55-c8133d0814c7/FgCF_133_CaaS_ARO_TechnicalReference_v0.14_Construction_Script.md)|
@@ -160,6 +162,7 @@
 ||aomachi|AppService, Functions||||[Qiita](https://qiita.com/Atsushi_Omachi)|
 ||asuzuki|Azure Network||||[Qiita](https://qiita.com/achu0628)|
 ||dahatake|Data/AI||||[Qiita](https://qiita.com/dahatake)|
+||daisami|Azure, ASP.NET, Java||[Blog](https://normalian.hatenablog.com/)|||
 ||dmaki|AppService||||[Qiita](https://qiita.com/dismakeu)|
 ||ftokumitsu|||||[Qiita](https://qiita.com/toku345)|
 ||haoqiangyou|Azure IaaS, k8s, Terraform||[Blog](https://hyoublog.com/)|||
@@ -178,7 +181,7 @@
 ||kaota|.NET|[YouTube](https://www.youtube.com/channel/UCi-IqYqwxd_NgTydJVCIQLg)|[Blog](https://blog.okazuki.jp)|[GitHub](https://github.com/runceel)|[Qiita](https://qiita.com/okazuki)|
 ||kasakemi|Azure Infra||||[Qiita](https://qiita.com/shakemi)|
 ||kenakamu|Azure|||[GitHub](https://github.com/kenakamu)|[Qiita](https://qiita.com/kenakamu)|
-||kenakay|Azure||||[Qiita](https://qiita.com/KentoNaka)|
+||kenakay|Azure||[Blog](https://www.kentsu.website/)||[Qiita](https://qiita.com/KentoNaka)|
 ||khigashi|AppService||||[Qiita](https://qiita.com/khigashi)|
 ||koheisaito|Java||||[Qiita](https://qiita.com/kk31108424)|
 ||koishizu|Azure Infra|||||
