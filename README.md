@@ -8,6 +8,7 @@
 - 興味のある or 調べる必要があるトピックの資料をそのままご確認ください(=順不同です)。
 - なるべく各技術・トピックに対して 1 つの資料となるようにしていますが、場合によって、異なるメンバーが作成した複数の資料が掲載されている場合もあります。この場合は各資料をご覧いただき、自分の目的などに合ったほうをご利用ください。
 - 全般的に Azure を学習したい場合には、オススメ度マークを参考にしてください。
+- (参考) Azure 初学者の方には、[mstep オンラインの Azure 学習コンテンツ](https://partner.microsoft.com/ja-jp/training/mstep-platform)がおすすめです。こちらもご参照ください。
 
 ## 免責事項
 
@@ -244,6 +245,7 @@
 |:----|:----|:----|:----|:----|:----|:----|
 |MSKK 主催・協賛の Azure 関連セミナー・Webinar ①||||||[その他](https://www.microsoft.com/ja-jp/events/search/result.aspx?pg=azure)|
 |MSKK 主催・協賛の Azure 関連セミナー・Webinar ②||||||[その他](https://events.microsoft.com/ja-jp/Azure)|
+|mstep オンライントレーニング||||||[その他](https://partner.microsoft.com/ja-jp/training/mstep-platform)|
 |Japan CSS blog 一覧 (日本マイクロソフトサポート情報)|||[Blog](https://cssjpn.github.io/)||||
 |Exchange & Outlook サポート|Exchange||[Blog](https://jpmessaging.github.io/blog/)||||
 |SharePoint サポート チーム|SharePoint||[Blog](https://jpspsupport.github.io/blog/)||||
