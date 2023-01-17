@@ -106,6 +106,7 @@
 |||Power BI + Synapse Analytics|enishimu||[YouTube](https://aka.ms/ocpjptbdat037)|
 |||Synapse Studio ソースコード管理|ishiraok||[YouTube](https://aka.ms/ocpjptbdat039)|
 |||Synapse Link for Cosmos DB|tfukuha||[YouTube](https://aka.ms/ocpjptbdat035)|
+|||Azure Data Explorer|taishimiyata||[blog1](https://qiita.com/tmiyata25/items/61608bb4a63dca55dcaf) [blog2](https://qiita.com/tmiyata25/items/d8606bad9a64015aed92)|
 ||データ移行・連携|Database Migration Service|kunisato||[YouTube](https://aka.ms/ocpjptbdat005)|
 |||Qlik データ統合製品 + Synapse|naigaras||[YouTube](https://aka.ms/ocpjptbdat040)|
 ||AI/ML (Azure ML)|Azure ML : AutoML, Designer|tsmatsuz|★|[YouTube](https://aka.ms/ocpjptbdat068)|
@@ -203,11 +204,11 @@
 |mikono|AppService||||[Qiita](https://qiita.com/superriver)||
 |mimochiz|Data/AI||||[Qiita](https://qiita.com/mimocihz)||
 |mnanri|Azure||||[Qiita](https://qiita.com/mnanri)||
-|nakama|.NET||[Blog](https://nakama.azurewebsites.net/)|[GitHub](https://github.com/nakamacchi/)|||
+|nakama|.NET|||[GitHub](https://github.com/nakamacchi/)|||
 |naoshima|AppDev||[Blog](https://nt-blogs-nt-7.vercel.app/blog)||[Qiita](https://qiita.com/nt-7)||
 |nobukoyamada|LogicApp||||[Qiita](https://qiita.com/e99h2121)||
 |oliva|AppDev||||[Qiita](https://qiita.com/oliva)||
-|shnagata|Data/AI||||[Qiita](https://qiita.com/aical)||
+|shnagata|Data/AI|||[GitHub](https://github.com/shohei1029)|[Qiita](https://qiita.com/aical)|[その他](https://zenn.dev/shohei_aio)|
 |shohe|AppService, Functons, Azure Stack||||[Qiita](https://qiita.com/shogo-ohe)||
 |shuda|Azure Infra|[YouTube](https://www.youtube.com/playlist?list=PLW6S2_dcoOggAeezwp1o7uSrsXSYUd0zZ)|[Blog](https://www.syuheiuda.com/)|[GitHub](https://github.com/ShuheiUda)|||
 |shuit|Data/AI||||[Qiita](https://qiita.com/ShuntaIto)||
@@ -216,6 +217,7 @@
 |So Nkbys|AppDev||||[Qiita](https://qiita.com/so_nkbys)||
 |taishimiyata|Data/AI||||[Qiita](https://qiita.com/tmiyata25)||
 |takeoka|AVD|||[GitHub](https://github.com/takeokams)|[Qiita](https://qiita.com/takeokams)||
+|takmas|PowerApps, PowerAutomate||||[Qiita](https://qiita.com/Takashi_Masumori)||
 |tanagaya|||||[Qiita](https://qiita.com/takmnagaya)||
 |tatsumiy|Azure Infra||||[Qiita](https://qiita.com/aktsmm)||
 |taushiga|Azure Infra||[Blog](https://www.cloudou.net/)||||
@@ -246,6 +248,7 @@
 |MSKK 主催・協賛の Azure 関連セミナー・Webinar ①||||||[その他](https://www.microsoft.com/ja-jp/events/search/result.aspx?pg=azure)|
 |MSKK 主催・協賛の Azure 関連セミナー・Webinar ②||||||[その他](https://events.microsoft.com/ja-jp/Azure)|
 |mstep オンライントレーニング||||||[その他](https://partner.microsoft.com/ja-jp/training/mstep-platform)|
+|Power Platform オンラインセミナー情報||||||[その他](https://aka.ms/PPPath)|
 |Japan CSS blog 一覧 (日本マイクロソフトサポート情報)|||[Blog](https://cssjpn.github.io/)||||
 |Exchange & Outlook サポート|Exchange||[Blog](https://jpmessaging.github.io/blog/)||||
 |SharePoint サポート チーム|SharePoint||[Blog](https://jpspsupport.github.io/blog/)||||
@@ -448,6 +451,7 @@
 |Windows Server News and Best Practices|||[Blog](https://techcommunity.microsoft.com/t5/windows-server-news-and-best/bg-p/WindowsServerNewsandBestPractices)||||
 |WinHEC Online Blog|||[Blog](https://techcommunity.microsoft.com/t5/winhec-online-blog/bg-p/WinHECOnlineBlog)||||
 |Yammer Blog|||[Blog](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)||||
+|MCP 試験対策サイト （※ 英語だが日本語字幕が可能）||||||[その他](https://learn.microsoft.com/ja-jp/shows/exam-readiness-zone/)|
 
 
 ## Contributing
