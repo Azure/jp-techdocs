@@ -114,6 +114,7 @@
 |||Azure ML 基盤構築|nohanaga|★|[YouTube](https://www.youtube.com/watch?v=FyhSPMpnDuU)|
 |||Azure ML : ML Ops|nohanaga|★|[YouTube](https://www.youtube.com/watch?v=KdbuWpRGwNk)|
 |||Anatomy Detector (異常検知) API|nohanaga|★|[YouTube](https://aka.ms/ocpjptbdat066)|
+|||Step-by-Step MLOps and Microsoft Products Internal|koheiogawa, shuit, keonabut||[ppt](https://speakerdeck.com/shisyu_gaku/step-by-step-mlops-and-microsoft-products)|
 ||AI/ML (Cognitive)|LUIS, QnA Maker|nohanaga||[YouTube](https://aka.ms/ocpjptbdat073)|
 |||Speech Service|tokawa||[YouTube](https://aka.ms/ocpjptbdat076)|
 |||Computer Vision|shiasa||[YouTube](https://aka.ms/ocpjptbdat070)|
