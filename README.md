@@ -325,6 +325,7 @@
 |Azure Networking Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog)||||
 |Azure Network Security Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)||||
 |Azure Observability Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog)||||
+|Azure OSS Developer Support|||[Blog](https://azureossd.github.io)||||
 |Azure PaaS Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog)||||
 |Azure Service Fabric Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric)||||
 |Azure Space Blog|||[Blog](https://techcommunity.microsoft.com/t5/azure-space-blog/bg-p/AzureSpaceBlog)||||
