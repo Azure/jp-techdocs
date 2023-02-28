@@ -63,6 +63,8 @@
 |Azure テクノロジ|セキュリティ|Azure AD 入門|tfukuha||[YouTube](https://aka.ms/ocpjptbinf001)|
 |||Azure AD 基礎・Azure AD B2B|nakama|★★★|[ppt](https://download.microsoft.com/download/1/3/8/138c3005-82f4-41db-bf78-9ce6d46af2ab/FgCF_①_2_AzureAD_Overview_v0.70.pptx) [mp4](https://download.microsoft.com/download/f/6/0/f6093441-8ca4-4901-b74e-f87894fc9ad8/2020_01_08_FgCF_AzureADForAzureBasics_v0.22.zip) [YouTube](https://www.youtube.com/watch?v=H7TKjAGT7pA) [フルセット版](https://download.microsoft.com/download/4/4/2/442b4fb3-f47a-4d13-b67a-ab5c721dc4ac/AzureAuthorizationDesignAndManagement_v0.67.pptx)|
 |||Azure AD テナント初期構築|nakama|★|[ppt](https://download.microsoft.com/download/a/0/3/a03cab45-1a89-4e53-b026-1b55a2ee91db/FgCF_112_VDC_construction_Authentication_infrastructure_Method_of_creating_Azure_AD_tenant_for_Azure_management_v0.01.pptx) [mp4](https://download.microsoft.com/download/3/b/f/3bfc7a3a-2560-4659-8eef-8af599c41320/FgCF_112_VDC_construction_Authentication_infrastructure_Method_of_creating_Azure_AD_tenant_for_Azure_management_v0.01.zip)|
+|||Azure AD B2C|ykodama||[YouTube](https://www.youtube.com/watch?v=owiW1rxNW14)|
+|||Azure AD Webinar シリーズ|ykodama|★★|[YouTube](https://www.youtube.com/playlist?list=PLM900vk_xOOC31z9Riico-AzUZkklaoJr)|
 |||Azure AD アプリ認証連携|tsmatsuz||[YouTube](https://aka.ms/ocpjptbinf002)|
 |||MDfC/MDfS|nakama|★★|[→ IaaS VM 管理ガイドを参照](https://aka.ms/AAj08w4)|
 |||セキュリティ機能概要|tokubo||[YouTube](https://www.youtube.com/watch?v=83LbnY1Rxjo)|
@@ -78,6 +80,7 @@
 |||VM シリーズ・サイズ選択|kakikuch||[YouTube](https://www.youtube.com/watch?v=U9AkACxNWuo)|
 |||IaaS VM 解説 (旧)|nakama||[ppt](https://download.microsoft.com/download/9/a/2/9a258748-936b-4b43-b127-2adc616e70d7/FgCF_①_3_SecurityBaseline(IaaS)_v1.00.pptx) [mp4](https://download.microsoft.com/download/d/6/0/d60816c1-47d8-4e7f-9a3a-ef404b441104/2020_01_17_FgCF_SecurityBaseline(IaaS)_v1.00_SplitVersion.zip) [YouTube](https://www.youtube.com/watch?v=S3A4Q9qRcCs)|
 |||IaaS VM 管理ガイド|nakama|★★|[ppt](https://aka.ms/AAj08w4) [doc](https://aka.ms/AAj0ggu) [mp4 (前半)](https://aka.ms/AAj08w6) [mp4 (後半)](https://aka.ms/AAj0ggw)|
+|||OS 日本語化スクリプト|takatano||[GitHub](https://github.com/tksh164/change-windows-language-regional-settings)|
 |||Confidential Computing|nakama||[ppt](https://aka.ms/AAj1dsr) [mp4](https://aka.ms/AAj1op4)|
 |||Azure Migrate|kosetoguchi||[YouTube](https://www.youtube.com/watch?v=9F-ZKtQcVAo)|
 ||CaaS|AKS|nakama||[ppt](https://download.microsoft.com/download/6/4/c/64c7f727-7712-49e7-a95e-7aa19e412e68/2020_04_25_AKS_TechnicalReference_v0.14(ppt).zip) [mp4(1)](https://download.microsoft.com/download/6/6/c/66c3ab0e-3d15-4e79-8377-a2880f1569b2/2020_04_25_AKS_TechnicalReference_v0.14(video1).zip) [mp4(2)](https://download.microsoft.com/download/9/7/8/97858185-ba75-48a3-a931-72092b5c1279/2020_04_25_AKS_TechnicalReference_v0.14(video2).zip) [doc](https://download.microsoft.com/download/d/e/1/de1f3cf0-8589-4e21-a4e0-4d9bd7de8291/FgCF_132_CaaS_AKS_TechnicalReference_Buildingsample_app_v0.13.zip) [mp4(3)](https://download.microsoft.com/download/b/a/8/ba8a9c96-4fc8-43ed-8309-9624d1a45779/2020_04_25_AKS_TechnicalReference_v0.14(video3).zip) [YouTube(1)](https://www.youtube.com/watch?v=t-qqjCLwcQo) [YouTube(2)](https://www.youtube.com/watch?v=qSyhyO6QRcY) [YouTube(3)](https://www.youtube.com/watch?v=-X1QHzsOhBo)|
@@ -114,7 +117,7 @@
 |||Azure ML 基盤構築|nohanaga|★|[YouTube](https://www.youtube.com/watch?v=FyhSPMpnDuU)|
 |||Azure ML : ML Ops|nohanaga|★|[YouTube](https://www.youtube.com/watch?v=KdbuWpRGwNk)|
 |||Anatomy Detector (異常検知) API|nohanaga|★|[YouTube](https://aka.ms/ocpjptbdat066)|
-|||Step-by-Step MLOps and Microsoft Products Internal|koheiogawa, shuit, keonabut||[ppt](https://speakerdeck.com/shisyu_gaku/step-by-step-mlops-and-microsoft-products)|
+|||Azure ML : MLOps 成熟度モデルに基づく段階的実装 Public|koheiogawa, shuit, keonabut||[ppt](https://speakerdeck.com/shisyu_gaku/step-by-step-mlops-and-microsoft-products)|
 ||AI/ML (Cognitive)|LUIS, QnA Maker|nohanaga||[YouTube](https://aka.ms/ocpjptbdat073)|
 |||Speech Service|tokawa||[YouTube](https://aka.ms/ocpjptbdat076)|
 |||Computer Vision|shiasa||[YouTube](https://aka.ms/ocpjptbdat070)|
@@ -162,6 +165,7 @@
 |社員またはチーム|タグ|YouTube|Blog|GitHub|Qiita|その他|
 |:----|:----|:----|:----|:----|:----|:----|
 |Qiita MS 社員ページ|||||[Qiita](https://qiita.com/organizations/microsoft)||
+|Zenn MS 社員ページ|||[Blog](https://zenn.dev/p/microsoft)||||
 |Annoske|DevOps||||[Qiita](https://qiita.com/Annoske)||
 |aomachi|AppService, Functions||||[Qiita](https://qiita.com/Atsushi_Omachi)||
 |asuzuki|Azure Network||||[Qiita](https://qiita.com/achu0628)|[その他](https://hutene.com/)|
