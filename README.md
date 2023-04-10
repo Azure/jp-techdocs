@@ -76,16 +76,19 @@
 |||仮想ネットワーク設計|nakama|★★★|[ppt](https://download.microsoft.com/download/4/d/e/4de15095-223c-4e82-b187-315ffa852ade/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.pptx) [mp4](https://download.microsoft.com/download/2/7/2/272111c2-a418-4864-b9ac-aaf01268c5c6/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.zip) [YouTube](https://www.youtube.com/watch?v=SpO_cOaZxdw)|
 |||延伸型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/d/f/f/dff93ba3-ab62-4a66-afc7-5d10da094c18/Web_DB_type_system_reference_architecture_and_main_points_of_construction(IaaS_VM_edition).pptx) [mp4](https://download.microsoft.com/download/d/a/8/da86811f-2aba-46da-ab2a-c42ed4e5a5c8/2019_11_07_FgCF_WebDB_ReferenceArchitecture(IaaSVM).zip) [YouTube](https://www.youtube.com/watch?v=iy4eGaUb-7U)|
 |||隔離型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/4/5/d/45d6e951-4d42-4276-83ac-13b5632b2ab9/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.pptx) [doc](https://download.microsoft.com/download/a/c/8/ac880230-c893-49f3-b32d-3e70e8ac6f22/2021_05_31_FgCF_IaaS_IsolatedVNET_ReferenceArchitecture_v0.11_docs.zip) [mp4](https://download.microsoft.com/download/d/2/a/d2a476af-136a-4846-853e-0d566f9f9b96/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.zip)|
+||マネージド NW サービス|サービス利用に必要な FQDN・ポート情報|hnakada||[Qiita](https://qiita.com/hisnakad/items/5a9f8157f62b959bc4be)|
 ||IaaS|IaaS VM 入門|tfukuha|★★|[YouTube](https://aka.ms/ocpjptbdat009)|
 |||VM シリーズ・サイズ選択|kakikuch||[YouTube](https://www.youtube.com/watch?v=U9AkACxNWuo)|
 |||IaaS VM 解説 (旧)|nakama||[ppt](https://download.microsoft.com/download/9/a/2/9a258748-936b-4b43-b127-2adc616e70d7/FgCF_①_3_SecurityBaseline(IaaS)_v1.00.pptx) [mp4](https://download.microsoft.com/download/d/6/0/d60816c1-47d8-4e7f-9a3a-ef404b441104/2020_01_17_FgCF_SecurityBaseline(IaaS)_v1.00_SplitVersion.zip) [YouTube](https://www.youtube.com/watch?v=S3A4Q9qRcCs)|
 |||IaaS VM 管理ガイド|nakama|★★|[ppt](https://aka.ms/AAj08w4) [doc](https://aka.ms/AAj0ggu) [mp4 (前半)](https://aka.ms/AAj08w6) [mp4 (後半)](https://aka.ms/AAj0ggw)|
 |||OS 日本語化スクリプト|takatano||[GitHub](https://github.com/tksh164/change-windows-language-regional-settings)|
+|||OS 日本語化 (AVD-Win11,10)|hiasano||[blog](https://jpwinsup.github.io/blog/2023/03/06/UserInterfaceAndApps/LanguageSupport_IME/InstallLanguage/)|
 |||Confidential Computing|nakama||[ppt](https://aka.ms/AAj1dsr) [mp4](https://aka.ms/AAj1op4)|
 |||Azure Migrate|kosetoguchi||[YouTube](https://www.youtube.com/watch?v=9F-ZKtQcVAo)|
 ||CaaS|AKS|nakama||[ppt](https://download.microsoft.com/download/6/4/c/64c7f727-7712-49e7-a95e-7aa19e412e68/2020_04_25_AKS_TechnicalReference_v0.14(ppt).zip) [mp4(1)](https://download.microsoft.com/download/6/6/c/66c3ab0e-3d15-4e79-8377-a2880f1569b2/2020_04_25_AKS_TechnicalReference_v0.14(video1).zip) [mp4(2)](https://download.microsoft.com/download/9/7/8/97858185-ba75-48a3-a931-72092b5c1279/2020_04_25_AKS_TechnicalReference_v0.14(video2).zip) [doc](https://download.microsoft.com/download/d/e/1/de1f3cf0-8589-4e21-a4e0-4d9bd7de8291/FgCF_132_CaaS_AKS_TechnicalReference_Buildingsample_app_v0.13.zip) [mp4(3)](https://download.microsoft.com/download/b/a/8/ba8a9c96-4fc8-43ed-8309-9624d1a45779/2020_04_25_AKS_TechnicalReference_v0.14(video3).zip) [YouTube(1)](https://www.youtube.com/watch?v=t-qqjCLwcQo) [YouTube(2)](https://www.youtube.com/watch?v=qSyhyO6QRcY) [YouTube(3)](https://www.youtube.com/watch?v=-X1QHzsOhBo)|
 |||ARO|tetsuyasodo||[ppt](https://download.microsoft.com/download/8/d/1/8d130c64-7aaa-4416-bec6-70c910c6d5df/FgCF_133_CaaS_ARO_TechnicalReference_v0.14.pptx) [doc](https://download.microsoft.com/download/a/8/5/a855ac44-bee0-4d1a-9f55-c8133d0814c7/FgCF_133_CaaS_ARO_TechnicalReference_v0.14_Construction_Script.md)|
 |||AKS セキュア化|tfukuha||[GitHub](https://github.com/Azure/jp-akssecurity)|
+|||ACA ハンズオン|horihiro||[GitHub](https://github.com/horihiro/containers-cicd-handson-tutorial)|
 ||PaaS|App Service 入門|tokawa|★|[YouTube](https://aka.ms/ocpjptbapp001)|
 |||App Service|nakama||[ppt](https://download.microsoft.com/download/6/9/3/6934d11e-78dc-4c00-ae61-316067193dc1/AppService_TechnicalReference_v0.06.pptx) [mp4(1)](https://download.microsoft.com/download/6/e/a/6ea96ebd-d9ff-4291-8976-a23698bf1282/2020_06_16_AppService_TechnicalReference_Part1.zip) [mp4(2)](https://download.microsoft.com/download/e/1/3/e130959e-7e85-48a0-a583-6ac49eed7303/2020_06_16_AppService_TechnicalReference_Part2.zip) [mp4(3)](https://download.microsoft.com/download/1/2/4/124c009d-2783-447f-8dad-124499c1523b/2020_06_16_AppService_TechnicalReference_Part3.zip) [YouTube(1)](https://www.youtube.com/watch?v=pfFEtl6hK1w) [YouTube(2)](https://www.youtube.com/watch?v=tP8uQ6WgFAM) [YouTube(3)](https://www.youtube.com/watch?v=L05eizD8ws4)|
 |||App Service セキュア化|tfukuha||[GitHub](https://github.com/Azure/jp-appservicesecurity)|
@@ -155,6 +158,7 @@
 |||Azure Monitor 監視|makuroda||[YouTube](https://aka.ms/ocpjptbinf004)|
 |||仮想マシンの運用管理 詳細|nakama||→ IaaS VM 管理ガイドを参照|
 ||その他|IaC (ARM テンプレート)|nakama||[ppt](https://download.microsoft.com/download/e/e/9/ee906254-0816-41f4-98eb-612bcbf1455a/ARM_template_development_v0.33.pptx) [mp4](https://download.microsoft.com/download/1/f/0/1f063580-4ba6-41f1-913f-2ba81425185c/2019_01_03_PracticalARMTemplate.zip) [YouTube1](https://www.youtube.com/watch?v=NGrnP8OdF7U) [YouTube2](https://www.youtube.com/watch?v=BQy7WCYBFCU)|
+|||IaC (Bicep)|akkoike||[ppt](https://download.microsoft.com/download/3/f/5/3f50ffe5-acba-4651-a408-db8a912dcdf9/IaC_realized_in_Bicep.pptx)|
 |||Chaos Studio|yojijo||[YouTube](https://www.youtube.com/watch?v=lPrg9bpzthQ)|
 |||D365 Customer Insights|keiji||[YouTube](https://aka.ms/ocpjptbdat038)|
 
@@ -209,7 +213,7 @@
 |mikono|AppService||||[Qiita](https://qiita.com/superriver)||
 |mimochiz|Data/AI||||[Qiita](https://qiita.com/mimocihz)||
 |mnanri|Azure||||[Qiita](https://qiita.com/mnanri)||
-|nakama|.NET|||[GitHub](https://github.com/nakamacchi/)|||
+|nakama|.NET|||[GitHub](https://github.com/nakamacchi/)|[Qiita](https://qiita.com/nakamacchi)||
 |naoshima|AppDev||[Blog](https://nt-blogs-nt-7.vercel.app/blog)||[Qiita](https://qiita.com/nt-7)||
 |nobukoyamada|LogicApp||||[Qiita](https://qiita.com/e99h2121)||
 |oliva|AppDev||||[Qiita](https://qiita.com/oliva)||
