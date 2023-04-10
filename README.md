@@ -140,6 +140,7 @@
 |||Cognitive Services on Edge|tsmatsuz||[YouTube](https://aka.ms/ocpjptbdat065)|
 |||Azure Percept|tfukuha||[YouTube](https://aka.ms/ocpjptbiot007)|
 ||CI/CD, DevOps|Azure DevOps|nakama|★|[ppt](https://download.microsoft.com/download/a/f/f/affd5a6d-342f-4c19-a250-040d1ab3ce86/AzureDevOps_OverviewAndDemo_v0.02.pptx) [mp4](https://download.microsoft.com/download/2/0/b/20b0d275-0256-43b2-ac39-d22c9d5a47a6/2020_02_26_AzureDevOps_OverviewAndDemo_v0.02.zip) [YouTube](https://www.youtube.com/watch?v=bQ5qG7Avfws)|
+|||GitHub Codespaces (動作原理)|nakama||[Qiita](https://qiita.com/nakamacchi/items/722275a02b2a24765efa)|
 |||GitHub DevOps|ishiraok||[YouTube](https://aka.ms/ocpjptbapp051)|
 |||GitHub Actions|ishiraok||[YouTube](https://aka.ms/ocpjptbapp052)|
 |||GitHub DevSecOps|yodekig||[YouTube](https://www.youtube.com/watch?v=scB-pO1StDw)|
