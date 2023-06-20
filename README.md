@@ -26,7 +26,8 @@
 |:----|:----|:----|:----|:----|:----|
 |設計・アーキテクチャ論|Azure 概論|Azure 標準化ガイドライン|tkanbara||[GitHub](https://github.com/Azure/Azure-standardization-guideline)|
 |||Azure L100（旧版）|nakama||[mp4(1)](https://download.microsoft.com/download/d/b/0/db00c64b-5d6f-4394-b44b-baee4ef52133/2019_03_04_AzureL100Part1(HD).zip) [mp4(2)](https://download.microsoft.com/download/4/8/8/488124d3-6519-484e-bf74-8db9fe7c9e39/2019_03_04_AzureL100Part2(HD).zip) [mp4(3)](https://download.microsoft.com/download/6/f/5/6f5a32f4-f1c6-4210-84a6-09f5f055e449/2019_03_04_AzureL100Part3(HD).zip) [mp4(4)](https://download.microsoft.com/download/c/e/0/ce0be5d2-2d5b-4d4c-a740-1ae5790e5526/2019_03_04_AzureL100Executive(HD).zip)|
-||設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama||[ppt](https://download.microsoft.com/download/2/a/b/2ab69a5d-7c69-4a24-a692-50823e3255d6/Translations_AzureCAF_v0.11.pptx) [YouTube (前半)](https://www.youtube.com/watch?v=eHLpPk6P8hw&t=10s) [YouTube (後半)](https://www.youtube.com/watch?v=RwAtcn75_7A&t=0s)|
+||設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama||[ppt](https://download.microsoft.com/download/2/a/b/2ab69a5d-7c69-4a24-a692-50823e3255d6/Translations_AzureCAF_v0.11.pptx) [YouTube (前半)](https://www.youtube.com/watch?v=eHLpPk6P8hw&t=10s) [YouTube (後半)](https://www.youtube.com/watch?v=RwAtcn75_7A&t=0s) → Azure CAF ESLZ 設計ガイドも参照|
+|||Azure CAF ESLZ 設計入門 (Azure 共通基盤構築ガイド)|nakama|★★|[構築デモ](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo)|
 ||セキュリティ|ゼロトラストセキュリティ|nakama|★★★|[ppt](https://download.microsoft.com/download/d/f/e/dfed7e7b-75e8-4939-823d-25a06b0abd68/FgCF_①_0_Zero_trust_type_multi_cloud_IT_environment_Introduction_Further_shortened_version_v0.40.pptx) [mp4](https://download.microsoft.com/download/b/5/0/b507ac40-280b-413a-be8a-56b29a6a765d/2020_03_10_FgCF_ZeroTrustMultiCloudITEnvironment_movie_v0.40a.zip) [YouTube](https://www.youtube.com/watch?v=T3bySEjhoQ8)|
 |||OA 環境設計|nakama|★|[ppt](https://download.microsoft.com/download/e/6/2/e6254b95-f822-42a9-b68c-057a71a67dca/FgCF_102_Zero_Trust_Multi_Cloud_IT_Environment_OA_Environment_Design_v0.17.pptx) [mp4](https://download.microsoft.com/download/3/7/0/370c26c3-a785-462b-a484-b69500d28680/FgCF_Zero_Trust_IT_Infrastructure_Design_way_of_thinking_video_v0.17.mp4) [YouTube](https://www.youtube.com/watch?v=QUyfcHDJXyI)|
 |||Azure W-AF : Security|nakama|★|[ppt](https://download.microsoft.com/download/1/3/8/13855030-7731-47a8-9759-ff28d9c32e3e/AzureW-AF_Security_section_Overview_documentation_v0.13.pptx) [mp4](https://download.microsoft.com/download/1/4/9/149d6525-9a7a-42a4-9302-87efce5f4d82/2020_06_12_AzureW_AF_Security_v0.13.zip) [YouTube](https://www.youtube.com/watch?v=w7-LVAWaGZU)|
@@ -81,7 +82,7 @@
 ||IaaS|IaaS VM 入門|tfukuha|★★|[YouTube](https://aka.ms/ocpjptbdat009)|
 |||VM シリーズ・サイズ選択|kakikuch||[YouTube](https://www.youtube.com/watch?v=U9AkACxNWuo)|
 |||IaaS VM 解説 (旧)|nakama||[ppt](https://download.microsoft.com/download/9/a/2/9a258748-936b-4b43-b127-2adc616e70d7/FgCF_①_3_SecurityBaseline(IaaS)_v1.00.pptx) [mp4](https://download.microsoft.com/download/d/6/0/d60816c1-47d8-4e7f-9a3a-ef404b441104/2020_01_17_FgCF_SecurityBaseline(IaaS)_v1.00_SplitVersion.zip) [YouTube](https://www.youtube.com/watch?v=S3A4Q9qRcCs)|
-|||IaaS VM 管理ガイド|nakama|★★|[ppt](https://aka.ms/AAj08w4) [doc](https://aka.ms/AAj0ggu) [mp4 (前半)](https://aka.ms/AAj08w6) [mp4 (後半)](https://aka.ms/AAj0ggw)|
+|||IaaS VM 管理ガイド|nakama|★★|[ppt](https://aka.ms/AAj08w4) [doc](https://aka.ms/AAj0ggu) [mp4 (前半)](https://aka.ms/AAj08w6) [mp4 (後半)](https://aka.ms/AAj0ggw) → Azure CAF ESLZ 設計入門 (Azure 共通基盤構築ガイド) も参照|
 |||IaaS VM 拡張機能の一覧|hnakada|★|[Qiita](https://qiita.com/hisnakad/items/cfa9c87c0c0fb010f62a)|
 |||OS 日本語化スクリプト|takatano||[GitHub](https://github.com/tksh164/change-windows-language-regional-settings)|
 |||OS 日本語化 (AVD-Win11,10)|hiasano||[blog](https://jpwinsup.github.io/blog/2023/03/06/UserInterfaceAndApps/LanguageSupport_IME/InstallLanguage/)|
@@ -162,7 +163,7 @@
 ||運用管理|Azure 運用管理サービス全体像|tfukuha|★|[YouTube](https://aka.ms/ocpjptbinf008)|
 |||Azure Monitor 入門|tfukuha||[YouTube](https://aka.ms/ocpjptbinf009)|
 |||Azure Monitor 監視|makuroda||[YouTube](https://aka.ms/ocpjptbinf004)|
-|||仮想マシンの運用管理 詳細|nakama||→ IaaS VM 管理ガイドを参照|
+|||仮想マシンの運用管理 詳細|nakama||→ IaaS VM 管理ガイド、Azure CAF ESLZ 設計ガイドを参照|
 ||その他|IaC (ARM テンプレート)|nakama||[ppt](https://download.microsoft.com/download/e/e/9/ee906254-0816-41f4-98eb-612bcbf1455a/ARM_template_development_v0.33.pptx) [mp4](https://download.microsoft.com/download/1/f/0/1f063580-4ba6-41f1-913f-2ba81425185c/2019_01_03_PracticalARMTemplate.zip) [YouTube1](https://www.youtube.com/watch?v=NGrnP8OdF7U) [YouTube2](https://www.youtube.com/watch?v=BQy7WCYBFCU)|
 |||IaC (Bicep)|akkoike||[ppt](https://download.microsoft.com/download/3/f/5/3f50ffe5-acba-4651-a408-db8a912dcdf9/IaC_realized_in_Bicep.pptx)|
 |||Chaos Studio|yojijo||[YouTube](https://www.youtube.com/watch?v=lPrg9bpzthQ)|
