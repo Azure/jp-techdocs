@@ -70,6 +70,7 @@
 |||MDfC/MDfS|nakama|★★|[→ IaaS VM 管理ガイドを参照](https://aka.ms/AAj08w4)|
 |||セキュリティ機能概要|tokubo||[YouTube](https://www.youtube.com/watch?v=83LbnY1Rxjo)|
 |||SQL DB, Synapse Workspace|tfukuha||[YouTube](https://aka.ms/ocpjptbdat004)|
+|||Blob セキュリティスキャン|hnakada||[Qiita](https://qiita.com/hisnakad/items/0d570e87490996d06146)|
 |||Sentinel|hinakamu|★|[WebCast](https://japan.zdnet.com/paper/30001233/30005544/)|
 |||Sentinel Workspace Manager|katsato||[Zenn](https://zenn.dev/microsoft/articles/55acfa68b2d5e8)|
 ||インフラ|Azure 物理インフラ|tokawa|★|[YouTube](https://aka.ms/ocpjptbinf007)|
@@ -78,7 +79,9 @@
 |||仮想ネットワーク設計|nakama|★★★|[ppt](https://download.microsoft.com/download/4/d/e/4de15095-223c-4e82-b187-315ffa852ade/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.pptx) [mp4](https://download.microsoft.com/download/2/7/2/272111c2-a418-4864-b9ac-aaf01268c5c6/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.zip) [YouTube](https://www.youtube.com/watch?v=SpO_cOaZxdw)|
 |||延伸型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/d/f/f/dff93ba3-ab62-4a66-afc7-5d10da094c18/Web_DB_type_system_reference_architecture_and_main_points_of_construction(IaaS_VM_edition).pptx) [mp4](https://download.microsoft.com/download/d/a/8/da86811f-2aba-46da-ab2a-c42ed4e5a5c8/2019_11_07_FgCF_WebDB_ReferenceArchitecture(IaaSVM).zip) [YouTube](https://www.youtube.com/watch?v=iy4eGaUb-7U)|
 |||隔離型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/4/5/d/45d6e951-4d42-4276-83ac-13b5632b2ab9/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.pptx) [doc](https://download.microsoft.com/download/a/c/8/ac880230-c893-49f3-b32d-3e70e8ac6f22/2021_05_31_FgCF_IaaS_IsolatedVNET_ReferenceArchitecture_v0.11_docs.zip) [mp4](https://download.microsoft.com/download/d/2/a/d2a476af-136a-4846-853e-0d566f9f9b96/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.zip)|
-||マネージド NW サービス|サービス利用に必要な FQDN・ポート情報|hnakada||[Qiita](https://qiita.com/hisnakad/items/5a9f8157f62b959bc4be)|
+||マネージド NW サービス|Azure Firewall Explicit Proxy|ishiyam||[Qiita](https://qiita.com/Isato-Hiyama/items/b3155d675730798aab4b)|
+|||サービス利用に必要な FQDN・ポート情報|hnakada||[Qiita](https://qiita.com/hisnakad/items/5a9f8157f62b959bc4be)|
+|||Azure DNS private resolver|tsunomur||[Zenn](https://zenn.dev/microsoft/articles/architecture-of-privatednsresolver)|
 ||IaaS|IaaS VM 入門|tfukuha|★★|[YouTube](https://aka.ms/ocpjptbdat009)|
 |||VM シリーズ・サイズ選択|kakikuch||[YouTube](https://www.youtube.com/watch?v=U9AkACxNWuo)|
 |||IaaS VM 解説 (旧)|nakama||[ppt](https://download.microsoft.com/download/9/a/2/9a258748-936b-4b43-b127-2adc616e70d7/FgCF_①_3_SecurityBaseline(IaaS)_v1.00.pptx) [mp4](https://download.microsoft.com/download/d/6/0/d60816c1-47d8-4e7f-9a3a-ef404b441104/2020_01_17_FgCF_SecurityBaseline(IaaS)_v1.00_SplitVersion.zip) [YouTube](https://www.youtube.com/watch?v=S3A4Q9qRcCs)|
@@ -87,17 +90,20 @@
 |||OS 日本語化スクリプト|takatano||[GitHub](https://github.com/tksh164/change-windows-language-regional-settings)|
 |||OS 日本語化 (AVD-Win11,10)|hiasano||[blog](https://jpwinsup.github.io/blog/2023/03/06/UserInterfaceAndApps/LanguageSupport_IME/InstallLanguage/)|
 |||OS 日本語化 (Win2022), VM Image Builder|masatoueda||[Qiita](https://qiita.com/ueda_it/items/7a3aade1e86944c431d1)|
+|||Dedicated Host 概要・操作イメージ|tatsumiy||[Qiita](https://qiita.com/aktsmm/items/088348a8fc2b0710b481)|
 |||Confidential Computing|nakama||[ppt](https://aka.ms/AAj1dsr) [mp4](https://aka.ms/AAj1op4)|
 |||Azure Migrate|kosetoguchi||[YouTube](https://www.youtube.com/watch?v=9F-ZKtQcVAo)|
 ||CaaS|AKS|nakama||[ppt](https://download.microsoft.com/download/6/4/c/64c7f727-7712-49e7-a95e-7aa19e412e68/2020_04_25_AKS_TechnicalReference_v0.14(ppt).zip) [mp4(1)](https://download.microsoft.com/download/6/6/c/66c3ab0e-3d15-4e79-8377-a2880f1569b2/2020_04_25_AKS_TechnicalReference_v0.14(video1).zip) [mp4(2)](https://download.microsoft.com/download/9/7/8/97858185-ba75-48a3-a931-72092b5c1279/2020_04_25_AKS_TechnicalReference_v0.14(video2).zip) [doc](https://download.microsoft.com/download/d/e/1/de1f3cf0-8589-4e21-a4e0-4d9bd7de8291/FgCF_132_CaaS_AKS_TechnicalReference_Buildingsample_app_v0.13.zip) [mp4(3)](https://download.microsoft.com/download/b/a/8/ba8a9c96-4fc8-43ed-8309-9624d1a45779/2020_04_25_AKS_TechnicalReference_v0.14(video3).zip) [YouTube(1)](https://www.youtube.com/watch?v=t-qqjCLwcQo) [YouTube(2)](https://www.youtube.com/watch?v=qSyhyO6QRcY) [YouTube(3)](https://www.youtube.com/watch?v=-X1QHzsOhBo)|
 |||ARO|tetsuyasodo||[ppt](https://download.microsoft.com/download/8/d/1/8d130c64-7aaa-4416-bec6-70c910c6d5df/FgCF_133_CaaS_ARO_TechnicalReference_v0.14.pptx) [doc](https://download.microsoft.com/download/a/8/5/a855ac44-bee0-4d1a-9f55-c8133d0814c7/FgCF_133_CaaS_ARO_TechnicalReference_v0.14_Construction_Script.md)|
 |||AKS セキュア化|tfukuha||[GitHub](https://github.com/Azure/jp-akssecurity)|
 |||ACA ハンズオン|horihiro||[GitHub](https://github.com/horihiro/containers-cicd-handson-tutorial)|
+|||ACA での AppInsights 利用|yoo||[Qiita](https://qiita.com/YoshiakiOi/items/d3b1a6d0ae3659c1accf)|
 ||PaaS|App Service 入門|tokawa|★|[YouTube](https://aka.ms/ocpjptbapp001)|
 |||App Service|nakama||[ppt](https://download.microsoft.com/download/6/9/3/6934d11e-78dc-4c00-ae61-316067193dc1/AppService_TechnicalReference_v0.06.pptx) [mp4(1)](https://download.microsoft.com/download/6/e/a/6ea96ebd-d9ff-4291-8976-a23698bf1282/2020_06_16_AppService_TechnicalReference_Part1.zip) [mp4(2)](https://download.microsoft.com/download/e/1/3/e130959e-7e85-48a0-a583-6ac49eed7303/2020_06_16_AppService_TechnicalReference_Part2.zip) [mp4(3)](https://download.microsoft.com/download/1/2/4/124c009d-2783-447f-8dad-124499c1523b/2020_06_16_AppService_TechnicalReference_Part3.zip) [YouTube(1)](https://www.youtube.com/watch?v=pfFEtl6hK1w) [YouTube(2)](https://www.youtube.com/watch?v=tP8uQ6WgFAM) [YouTube(3)](https://www.youtube.com/watch?v=L05eizD8ws4)|
 |||App Service セキュア化|tfukuha||[GitHub](https://github.com/Azure/jp-appservicesecurity)|
 |||App Service 内部アーキテクチャ|hnakajima||[blog1](https://jpazpaas.github.io/blog/2023/05/10/Appservice-components.html) [blog2](https://jpazpaas.github.io/blog/2023/05/10/Inside-the-Azure-App-Service-Architecture.html)|
 |||App Service 運用構成ガイド|hnakajima||[blog](https://jpazpaas.github.io/blog/2023/05/17/The-Ultimate-Guide-to-Running-Healthy-Apps-in-the-Cloud.html)|
+|||Functions 内部アーキテクチャ|komayama||[GitHub](https://jpazpaas.github.io/blog/2023/08/24/azure-functions-words-relative-management.html)|
 |||Azure Batch|nakama||[ppt(1)](https://download.microsoft.com/download/1/a/7/1a7fb7e9-1602-46de-9ff0-e8548d146a5b/2019_05_21_AzureBatchSample_Materials.zip) [mp4(1)](https://download.microsoft.com/download/4/8/b/48baeee0-921c-4ecd-afa1-c57b2dcdc935/2019_05_21_AzureBatchSample_Video.zip) [YouTube(1)](https://www.youtube.com/watch?v=Z8d4zq8Skh4) [ppt(2)](https://download.microsoft.com/download/4/5/4/454c783b-372f-48c1-aed8-e7b7b112599a/AzureBatch_Technical_reference_v0.20.pptx) [mp4(2)](https://download.microsoft.com/download/2/1/6/2160a96c-deca-43fd-a557-72a9d29b58e1/2020_08_14_AzureBatch_TechnicalReference_v0.20.zip) [YouTube(3)](https://www.youtube.com/watch?v=VvmK7wRBU5Y)|
 |||Azure Spring Cloud|yoterada||[YouTube](https://aka.ms/ocpjptbapp061)|
 |||Java on App Service|yoterada||[YouTube](https://www.youtube.com/watch?v=ymN68MtMwT0)|
@@ -156,7 +162,7 @@
 |||Microsoft OpenJDK|yoterada||[YouTube](https://www.youtube.com/watch?v=pcJGdtaFV-U)|
 |||VS Code による Java 開発|yoterada||[YouTube](https://www.youtube.com/watch?v=YWzlCWSrKJ8)|
 |||Bot Framework|osamum||[YouTube](https://aka.ms/ocpjptbapp004)|
-||DaaS|AVD|nakama||[ppt](https://download.microsoft.com/download/7/0/4/7044dce5-224d-48ae-ab78-e25935e59b6f/WVD_Commentary_material_v0.19.pptx)|
+||DaaS|AVD アーキテクチャデザイン|FTA||[GitHub](https://github.com/Azure/fta-japan/blob/main/FTALive/AVD/AVD Architecture Design Guide.md)|
 ||Multi/Hybrid|Azure Stack HCI|osamut||[YouTube](https://www.youtube.com/watch?v=VT2gJnMntTM)|
 |||Azure Arc enabled Kubernetes|shiasa||[YouTube](https://aka.ms/ocpjptbapp042)|
 |||Azure Arc enabled SQL MI|tfukuha||[YouTube](https://aka.ms/ocpjptbdat011)|
@@ -168,7 +174,8 @@
 |||IaC (Bicep)|akkoike||[ppt](https://download.microsoft.com/download/3/f/5/3f50ffe5-acba-4651-a408-db8a912dcdf9/IaC_realized_in_Bicep.pptx)|
 |||Chaos Studio|yojijo||[YouTube](https://www.youtube.com/watch?v=lPrg9bpzthQ)|
 |||D365 Customer Insights|keiji||[YouTube](https://aka.ms/ocpjptbdat038)|
-|その他|Azure のサポート|問い合わせのコツ|kakusaka|★★★|[blog](https://www.michikusayan.com/entry/20230620/1687252878)|
+|その他|FAQ|FTA Japan Knowledge Base|||[GitHub](https://github.com/Azure/fta-japan/)|
+||Azure のサポート|問い合わせのコツ|kakusaka|★★★|[blog](https://www.michikusayan.com/entry/20230620/1687252878)|
 
 
 ## 社員・チームBlog
