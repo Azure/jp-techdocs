@@ -27,7 +27,7 @@
 |設計・アーキテクチャ論|Azure 概論|Azure 標準化ガイドライン|tkanbara||[GitHub](https://github.com/Azure/Azure-standardization-guideline)|
 |||Azure L100（旧版）|nakama||[mp4(1)](https://download.microsoft.com/download/d/b/0/db00c64b-5d6f-4394-b44b-baee4ef52133/2019_03_04_AzureL100Part1(HD).zip) [mp4(2)](https://download.microsoft.com/download/4/8/8/488124d3-6519-484e-bf74-8db9fe7c9e39/2019_03_04_AzureL100Part2(HD).zip) [mp4(3)](https://download.microsoft.com/download/6/f/5/6f5a32f4-f1c6-4210-84a6-09f5f055e449/2019_03_04_AzureL100Part3(HD).zip) [mp4(4)](https://download.microsoft.com/download/c/e/0/ce0be5d2-2d5b-4d4c-a740-1ae5790e5526/2019_03_04_AzureL100Executive(HD).zip)|
 ||設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama|★|[ppt](https://download.microsoft.com/download/2/a/b/2ab69a5d-7c69-4a24-a692-50823e3255d6/Translations_AzureCAF_v0.11.pptx) [YouTube (前半)](https://www.youtube.com/watch?v=eHLpPk6P8hw&t=10s) [YouTube (後半)](https://www.youtube.com/watch?v=RwAtcn75_7A&t=0s) → Azure CAF ESLZ 設計ガイドも参照|
-|||Azure 共通基盤 設計構築ガイド (Azure CAF ESLZ 設計入門)|nakama|★★|[ppt](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtyy___E9hoB___Jl5X2cG___eFg9xPRxcaoPTCo0vNxq4lZp3rNm81jrfH7PLUSSIGNwU5D1HKPLUSSIGN1AAH7rYfBj7APLUSSIGNBEMv0pjNYIBq) [Excel](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtxzAeXDiVVZPCGzgHUv3Rusco6vdM9u2cQNIV6PnHj81vWW77tzCp______GaDZd43uKWG84rrr88dmr5BpWb6wrPLUSSIGNeL) [構築デモ](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo)|
+|||Azure 共通基盤 設計構築ガイド (Azure CAF ESLZ 設計入門)|nakama|★★|[GitHub](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo/) [ppt](https://qiita.com/Isato-Hiyama/items/b3155d675730798aab4b) [Excel](https://qiita.com/hisnakad/items/0d570e87490996d06146) [構築デモ](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtyy___E9hoB___Jl5X2cG___eFg9xPRxcaoPTCo0vNxq4lZp3rNm81jrfH7PLUSSIGNwU5D1HKPLUSSIGN1AAH7rYfBj7APLUSSIGNBEMv0pjNYIBq)|
 ||セキュリティ|ゼロトラストセキュリティ|nakama|★★★|[ppt](https://download.microsoft.com/download/d/f/e/dfed7e7b-75e8-4939-823d-25a06b0abd68/FgCF_①_0_Zero_trust_type_multi_cloud_IT_environment_Introduction_Further_shortened_version_v0.40.pptx) [mp4](https://download.microsoft.com/download/b/5/0/b507ac40-280b-413a-be8a-56b29a6a765d/2020_03_10_FgCF_ZeroTrustMultiCloudITEnvironment_movie_v0.40a.zip) [YouTube](https://www.youtube.com/watch?v=T3bySEjhoQ8)|
 |||OA 環境設計|nakama|★|[ppt](https://download.microsoft.com/download/e/6/2/e6254b95-f822-42a9-b68c-057a71a67dca/FgCF_102_Zero_Trust_Multi_Cloud_IT_Environment_OA_Environment_Design_v0.17.pptx) [mp4](https://download.microsoft.com/download/3/7/0/370c26c3-a785-462b-a484-b69500d28680/FgCF_Zero_Trust_IT_Infrastructure_Design_way_of_thinking_video_v0.17.mp4) [YouTube](https://www.youtube.com/watch?v=QUyfcHDJXyI)|
 |||Azure W-AF : Security|nakama|★|[ppt](https://download.microsoft.com/download/1/3/8/13855030-7731-47a8-9759-ff28d9c32e3e/AzureW-AF_Security_section_Overview_documentation_v0.13.pptx) [mp4](https://download.microsoft.com/download/1/4/9/149d6525-9a7a-42a4-9302-87efce5f4d82/2020_06_12_AzureW_AF_Security_v0.13.zip) [YouTube](https://www.youtube.com/watch?v=w7-LVAWaGZU)|
@@ -68,6 +68,7 @@
 |||Azure AD Webinar シリーズ|ykodama|★★|[YouTube](https://www.youtube.com/playlist?list=PLM900vk_xOOC31z9Riico-AzUZkklaoJr)|
 |||Azure AD アプリ認証連携|tsmatsuz||[YouTube](https://aka.ms/ocpjptbinf002)|
 |||MDfC/MDfS|nakama|★★|[→ IaaS VM 管理ガイドを参照](https://aka.ms/AAj08w4)|
+|||Azure Policy 利用の注意点|nakama||[ppt](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtxzAeXDiVVZPCGzgHUv3Ruswn4VQuM265F0oRSuPFI9ieWRPhUIfRawgXe0XK2bG7lPdOVPLUSSIGNPxeN1bWm5KuWKuAr) [mp4](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtwb9ehaqUR1bVgNjwxUn8lZi2f884OdwBZ6KDPLUSSIGNzdgPiojToFJiJNWo5vA65luLetrY7xCrCuPLUSSIGNc4Bolcx9jpZB6F)|
 |||セキュリティ機能概要|tokubo||[YouTube](https://www.youtube.com/watch?v=83LbnY1Rxjo)|
 |||SQL DB, Synapse Workspace|tfukuha||[YouTube](https://aka.ms/ocpjptbdat004)|
 |||Blob セキュリティスキャン|hnakada||[Qiita](https://qiita.com/hisnakad/items/0d570e87490996d06146)|
@@ -79,6 +80,7 @@
 |||仮想ネットワーク設計|nakama|★★★|[ppt](https://download.microsoft.com/download/4/d/e/4de15095-223c-4e82-b187-315ffa852ade/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.pptx) [mp4](https://download.microsoft.com/download/2/7/2/272111c2-a418-4864-b9ac-aaf01268c5c6/FgCF_111_VDC_construction_Network_infrastructure_Azure_network_infrastructure_Explanation_v0.35.zip) [YouTube](https://www.youtube.com/watch?v=SpO_cOaZxdw)|
 |||延伸型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/d/f/f/dff93ba3-ab62-4a66-afc7-5d10da094c18/Web_DB_type_system_reference_architecture_and_main_points_of_construction(IaaS_VM_edition).pptx) [mp4](https://download.microsoft.com/download/d/a/8/da86811f-2aba-46da-ab2a-c42ed4e5a5c8/2019_11_07_FgCF_WebDB_ReferenceArchitecture(IaaSVM).zip) [YouTube](https://www.youtube.com/watch?v=iy4eGaUb-7U)|
 |||隔離型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/4/5/d/45d6e951-4d42-4276-83ac-13b5632b2ab9/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.pptx) [doc](https://download.microsoft.com/download/a/c/8/ac880230-c893-49f3-b32d-3e70e8ac6f22/2021_05_31_FgCF_IaaS_IsolatedVNET_ReferenceArchitecture_v0.11_docs.zip) [mp4](https://download.microsoft.com/download/d/2/a/d2a476af-136a-4846-853e-0d566f9f9b96/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.zip)|
+|||VM からの外部接続 (SNAT) の選択肢|shyamag|★|[blog](https://jpaztech.github.io/blog/network/snat-options-for-azure-vm/)|
 ||マネージド NW サービス|Azure Firewall Explicit Proxy|ishiyam||[Qiita](https://qiita.com/Isato-Hiyama/items/b3155d675730798aab4b)|
 |||サービス利用に必要な FQDN・ポート情報|hnakada||[Qiita](https://qiita.com/hisnakad/items/5a9f8157f62b959bc4be)|
 |||Azure DNS private resolver|tsunomur||[Zenn](https://zenn.dev/microsoft/articles/architecture-of-privatednsresolver)|
@@ -166,7 +168,7 @@
 ||Multi/Hybrid|Azure Stack HCI|osamut||[YouTube](https://www.youtube.com/watch?v=VT2gJnMntTM)|
 |||Azure Arc enabled Kubernetes|shiasa||[YouTube](https://aka.ms/ocpjptbapp042)|
 |||Azure Arc enabled SQL MI|tfukuha||[YouTube](https://aka.ms/ocpjptbdat011)|
-||運用管理|Azure 運用管理サービス全体像|tfukuha|★|[YouTube](https://aka.ms/ocpjptbinf008)|
+|||Azure 運用管理サービス全体像|tfukuha|★|[YouTube](https://aka.ms/ocpjptbinf008)|
 |||Azure Monitor 入門|tfukuha||[YouTube](https://aka.ms/ocpjptbinf009)|
 |||Azure Monitor 監視|makuroda||[YouTube](https://aka.ms/ocpjptbinf004)|
 |||仮想マシンの運用管理 詳細|nakama||→ IaaS VM 管理ガイド、Azure CAF ESLZ 設計ガイドを参照|
