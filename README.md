@@ -259,7 +259,7 @@
 |tuesaka|Azure AppDev||||[Qiita](https://qiita.com/takashiuesaka)||
 |wahaniya|AppDev|||[GitHub](https://github.com/watahani)|[Qiita](https://qiita.com/watahani)||
 |ymatsumoto|Azure Infra||[Blog](https://blog.aimless.jp/)|[GitHub](https://github.com/kongou-ae)|||
-|yoichiozaki|Algorithm||[Blog](https://zakimal.github.io/ja/post/)|[GitHub](https://github.com/zakimal)|[Qiita](https://qiita.com/zak74702675)||
+|yoichiozaki|Algorithm||||[Qiita](https://qiita.com/zak74702675)||
 |yoo|MDfC, Sentinel||||[Qiita](https://qiita.com/YoshiakiOi)||
 |yoterada|Java|[YouTube](https://www.youtube.com/c/YoshioTerada/videos)||[GitHub](https://github.com/yoshioterada)|[Qiita](https://qiita.com/yoshioterada)||
 |yukirii|k8s||[Blog](https://blog.yukirii.dev/)||[Qiita](https://qiita.com/yukirii)||
