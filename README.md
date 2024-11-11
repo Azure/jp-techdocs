@@ -24,9 +24,16 @@
 
 |大分類|小分類|トピック|オーナー|オススメ度|コンテンツ|
 |:----|:----|:----|:----|:----|:----|
-|設計・アーキテクチャ論|Azure 概論|Azure 標準化ガイドライン|tkanbara||[GitHub](https://github.com/Azure/Azure-standardization-guideline)|
+|全体論・概論|Azure 概論|Azure 標準化ガイドライン|tkanbara||[GitHub](https://github.com/Azure/Azure-standardization-guideline)|
 |||Azure L100（旧版）|nakama||[mp4(1)](https://download.microsoft.com/download/d/b/0/db00c64b-5d6f-4394-b44b-baee4ef52133/2019_03_04_AzureL100Part1(HD).zip) [mp4(2)](https://download.microsoft.com/download/4/8/8/488124d3-6519-484e-bf74-8db9fe7c9e39/2019_03_04_AzureL100Part2(HD).zip) [mp4(3)](https://download.microsoft.com/download/6/f/5/6f5a32f4-f1c6-4210-84a6-09f5f055e449/2019_03_04_AzureL100Part3(HD).zip) [mp4(4)](https://download.microsoft.com/download/c/e/0/ce0be5d2-2d5b-4d4c-a740-1ae5790e5526/2019_03_04_AzureL100Executive(HD).zip)|
-||設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama|★|[ppt](https://download.microsoft.com/download/2/a/b/2ab69a5d-7c69-4a24-a692-50823e3255d6/Translations_AzureCAF_v0.11.pptx) [YouTube (前半)](https://www.youtube.com/watch?v=eHLpPk6P8hw&t=10s) [YouTube (後半)](https://www.youtube.com/watch?v=RwAtcn75_7A&t=0s) → Azure CAF ESLZ 設計ガイドも参照|
+||Azure インフラブートキャンプ|Azure インフラブートキャンプ 一覧（次回の Boot Camp の案内も含む）|tfukuha|★★★|[リンクインデックス集](https://aka.ms/azinfbcjp)|
+|||Cloud Adoption Framework (CAF) Boot Camp (全 18 セッション)|tfukuha|★|[YouTube プレイリスト](https://aka.ms/cafbc2023)|
+|||Migrate & Secure Windows Server and SQL Server Boot Camp - AI 時代に必要な、信頼できる IT 基盤構築とは!? (全 12 セッション)|tfukuha|★|[YouTube プレイリスト](https://aka.ms/winsqlbc2023)|
+|||Cloud Security Boot Camp - 世界最大のセキュリティ ベンダーが提供する包括的なサービスを学ぶ 2 日間 (全 12 セッション)|tfukuha|★★|[YouTube プレイリスト](https://aka.ms/secbc2023)|
+|||Azure Infrastructure Boot Camp - 現役のインフラ テクノロジー スペシャリストから学ぶ 2 日間 (全 8　セッション)|tfukuha|★★|[YouTube プレイリスト](https://aka.ms/infbc2024)|
+|||Management & Security Boot Camp - ハイブリッド/マルチクラウド環境を包含した非機能要件の実装手段を学ぶ 2 日間 (全 12 セッション)|tfukuha|★★|[YouTube プレイリスト](https://aka.ms/mgmtbc2024)|
+|||Migrate to Be AI Ready Strategy Boot Camp - VMware の移行から始める AI 対応の IT 基盤への基礎知識 (全 12 セッション)|tfukuha|★|[YouTube プレイリスト](https://aka.ms/m2aibc2024)|
+|設計・アーキテクチャ論|設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama|★|[ppt](https://download.microsoft.com/download/2/a/b/2ab69a5d-7c69-4a24-a692-50823e3255d6/Translations_AzureCAF_v0.11.pptx) [YouTube (前半)](https://www.youtube.com/watch?v=eHLpPk6P8hw&t=10s) [YouTube (後半)](https://www.youtube.com/watch?v=RwAtcn75_7A&t=0s) → Azure CAF ESLZ 設計ガイドも参照|
 |||Azure WAF (超訳版) (2024/05 版)|nakama|★|[ppt](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtw6G7iQYzLWpOMJ73X83AsFYw89cgI6OMT03SWJI5aABPLUSSIGNQoihPVm8JYPJy5MbjrjCy07zVzr6cAiajeh8jREtiD)|
 |||Azure 共通基盤 設計構築ガイド (Azure CAF ESLZ 設計入門)|nakama|★★|[GitHub](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo/) [ppt](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtxQXPLUSSIGN___dalE8F4n68O7GPED3rdHTQCYgfTEm0Jhg5CvzxWQNV7ZitfO6iFT5UK709WdIaPLUSSIGNnXBisuPLUSSIGNpbm7QBKhsrX) [Excel](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtyuIJHJGxHlXyruUKSZFgoiBkV54kvJNzMITeliEebencNCxvxKBYMdaMRsN1Et7WVXmRHRZfA1esTcpmKqam6E) [基本セオリー解説ビデオ](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtzPLUSSIGNCTjNOOGXNMVZD4DcEWrE2Q5svFv9PLUSSIGNSGhGXNrZBOKTRcvURUpIn___O___eTpV6iENefZc6sCSUxez1H0___F15ojc7) [構築デモ](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo/blob/master/readme.md)|
 ||セキュリティ|ゼロトラストセキュリティ|nakama|★★★|[ppt](https://download.microsoft.com/download/d/f/e/dfed7e7b-75e8-4939-823d-25a06b0abd68/FgCF_①_0_Zero_trust_type_multi_cloud_IT_environment_Introduction_Further_shortened_version_v0.40.pptx) [mp4](https://download.microsoft.com/download/b/5/0/b507ac40-280b-413a-be8a-56b29a6a765d/2020_03_10_FgCF_ZeroTrustMultiCloudITEnvironment_movie_v0.40a.zip) [YouTube](https://www.youtube.com/watch?v=T3bySEjhoQ8)|
@@ -75,6 +82,7 @@
 |||Blob セキュリティスキャン|hnakada||[Qiita](https://qiita.com/hisnakad/items/0d570e87490996d06146)|
 |||Sentinel|hinakamu|★|[WebCast](https://japan.zdnet.com/paper/30001233/30005544/)|
 |||Sentinel Workspace Manager|katsato||[Zenn](https://zenn.dev/microsoft/articles/55acfa68b2d5e8)|
+|||Log Analytics Workspace リージョン間レプリケーション|ymatsumoto||[blog](https://blog.aimless.jp/archives/2024/06/log-analytics-workspace-replication/)|
 ||インフラ|Azure 物理インフラ|tokawa|★|[YouTube](https://aka.ms/ocpjptbinf007)|
 |||インフラセキュリティ強化|tfukuha||[GitHub](https://github.com/Azure/jp-iaassecurity)|
 ||ネットワーク|Azure ネットワーク概要|minaito||[YouTube](https://aka.ms/ocpjptbinf003)|
@@ -82,6 +90,8 @@
 |||延伸型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/d/f/f/dff93ba3-ab62-4a66-afc7-5d10da094c18/Web_DB_type_system_reference_architecture_and_main_points_of_construction(IaaS_VM_edition).pptx) [mp4](https://download.microsoft.com/download/d/a/8/da86811f-2aba-46da-ab2a-c42ed4e5a5c8/2019_11_07_FgCF_WebDB_ReferenceArchitecture(IaaSVM).zip) [YouTube](https://www.youtube.com/watch?v=iy4eGaUb-7U)|
 |||隔離型 VNET 設計|nakama||[ppt](https://download.microsoft.com/download/4/5/d/45d6e951-4d42-4276-83ac-13b5632b2ab9/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.pptx) [doc](https://download.microsoft.com/download/a/c/8/ac880230-c893-49f3-b32d-3e70e8ac6f22/2021_05_31_FgCF_IaaS_IsolatedVNET_ReferenceArchitecture_v0.11_docs.zip) [mp4](https://download.microsoft.com/download/d/2/a/d2a476af-136a-4846-853e-0d566f9f9b96/FgCF_121_IaaS_VNET_IaaSVM_Reference_Architecture(Isolated_VNET_version)_v0.01.zip)|
 |||VM からの外部接続 (SNAT) の選択肢|shyamag|★|[blog](https://jpaztech.github.io/blog/network/snat-options-for-azure-vm/)|
+|||ExpressRoute 経路最適化|juyamagu||[blog](https://zenn.dev/openjny/articles/30348e5ace6da4)|
+|||プライベートエンドポイントのための DNS 構成パターン|ishiyam|★★|[blog](https://qiita.com/Isato-Hiyama/items/6c61a65f12c9e7042bb2)|
 ||マネージド NW サービス|Azure Firewall Explicit Proxy|ishiyam||[Qiita](https://qiita.com/Isato-Hiyama/items/b3155d675730798aab4b)|
 |||サービス利用に必要な FQDN・ポート情報|hnakada||[Qiita](https://qiita.com/hisnakad/items/5a9f8157f62b959bc4be)|
 |||Azure DNS private resolver|tsunomur||[Zenn](https://zenn.dev/microsoft/articles/architecture-of-privatednsresolver)|
@@ -253,14 +263,14 @@
 |tkawabuchi|k8s||||[Qiita](https://qiita.com/tbuchi888)||
 |tokawa|Azure, AppDev|||[GitHub](https://github.com/tokawa-ms)|[Qiita](https://qiita.com/tokawa-ms)||
 |tomakabe|k8s||[Blog](https://torumakabe.github.io/)||||
-|toshida|AppService||[Blog](https://blog.toshida.org/)|[GitHub](https://github.com/georgeOsdDev)|[Qiita](https://qiita.com/georgeOsdDev@github)||
+|toshida|AppService|||[GitHub](https://github.com/georgeOsdDev)|[Qiita](https://qiita.com/georgeOsdDev@github)||
 |tsunomur|Azure Infra||||[Qiita](https://qiita.com/tsubasaxZZZ)||
 |tsushi|Functions|||[GitHub](https://github.com/TsuyoshiUshio)|[Qiita](https://qiita.com/TsuyoshiUshio@github)||
 |tsushi|DevOps, Functions||[Blog](https://simplearchitect.hatenablog.com/)|||[その他](https://note.com/simplearchitect/)|
 |tuesaka|Azure AppDev||||[Qiita](https://qiita.com/takashiuesaka)||
 |wahaniya|AppDev|||[GitHub](https://github.com/watahani)|[Qiita](https://qiita.com/watahani)||
 |ymatsumoto|Azure Infra||[Blog](https://blog.aimless.jp/)|[GitHub](https://github.com/kongou-ae)|||
-|yoichiozaki|Algorithm||||[Qiita](https://qiita.com/zak74702675)||
+|yoichiozaki|Algorithm||||[Qiita](https://qiita.com/yoichiozaki)||
 |yoo|MDfC, Sentinel||||[Qiita](https://qiita.com/YoshiakiOi)||
 |yoterada|Java|[YouTube](https://www.youtube.com/c/YoshioTerada/videos)||[GitHub](https://github.com/yoshioterada)|[Qiita](https://qiita.com/yoshioterada)||
 |yukirii|k8s||[Blog](https://blog.yukirii.dev/)||[Qiita](https://qiita.com/yukirii)||
