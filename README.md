@@ -33,9 +33,9 @@
 |||Azure Infrastructure Boot Camp - 現役のインフラ テクノロジー スペシャリストから学ぶ 2 日間 (全 8　セッション)|tfukuha|★★|[YouTube プレイリスト](https://aka.ms/infbc2024)|
 |||Management & Security Boot Camp - ハイブリッド/マルチクラウド環境を包含した非機能要件の実装手段を学ぶ 2 日間 (全 12 セッション)|tfukuha|★★|[YouTube プレイリスト](https://aka.ms/mgmtbc2024)|
 |||Migrate to Be AI Ready Strategy Boot Camp - VMware の移行から始める AI 対応の IT 基盤への基礎知識 (全 12 セッション)|tfukuha|★|[YouTube プレイリスト](https://aka.ms/m2aibc2024)|
-|設計・アーキテクチャ論|設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama|★|[ppt](https://download.microsoft.com/download/2/a/b/2ab69a5d-7c69-4a24-a692-50823e3255d6/Translations_AzureCAF_v0.11.pptx) [YouTube (前半)](https://www.youtube.com/watch?v=eHLpPk6P8hw&t=10s) [YouTube (後半)](https://www.youtube.com/watch?v=RwAtcn75_7A&t=0s) → Azure CAF ESLZ 設計ガイドも参照|
-|||Azure WAF (超訳版) (2024/05 版)|nakama|★|[ppt](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtw6G7iQYzLWpOMJ73X83AsFYw89cgI6OMT03SWJI5aABPLUSSIGNQoihPVm8JYPJy5MbjrjCy07zVzr6cAiajeh8jREtiD)|
-|||Azure 共通基盤 設計構築ガイド (Azure CAF ESLZ 設計入門)|nakama|★★|[GitHub](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo/) [ppt](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtxQXPLUSSIGN___dalE8F4n68O7GPED3rdHTQCYgfTEm0Jhg5CvzxWQNV7ZitfO6iFT5UK709WdIaPLUSSIGNnXBisuPLUSSIGNpbm7QBKhsrX) [Excel](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtyuIJHJGxHlXyruUKSZFgoiBkV54kvJNzMITeliEebencNCxvxKBYMdaMRsN1Et7WVXmRHRZfA1esTcpmKqam6E) [基本セオリー解説ビデオ](https://livesend.microsoft.com/i/KiIa1FQzy1DUXI8U0n7t8Mk08Fb9jKY3D9OXIRgzmtzPLUSSIGNCTjNOOGXNMVZD4DcEWrE2Q5svFv9PLUSSIGNSGhGXNrZBOKTRcvURUpIn___O___eTpV6iENefZc6sCSUxez1H0___F15ojc7) [構築デモ](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo/blob/master/readme.md)|
+|設計・アーキテクチャ論|設計・開発方法論（一般）|Azure CAF (超訳版) (2022/12 版)|nakama|★|[ppt](https://aka.ms/jpcaf-ppt) [YouTube (前半)](https://aka.ms/jpcaf-mp4-01) [YouTube (後半)](https://aka.ms/jpcaf-mp4-02) → Azure CAF ESLZ 設計ガイドも参照|
+|||Azure WAF (超訳版) (2024/05 版)|nakama|★|[ppt](https://aka.ms/jpwaf-ppt)|
+|||Azure 共通基盤 設計構築ガイド (Azure CAF ESLZ 設計入門)|nakama|★★|[GitHub](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo/) [ppt](https://aka.ms/jpalz-ppt) [Excel](https://aka.ms/jpalz-xls) [基本セオリー解説ビデオ](https://aka.ms/jpalz-mp4-41) [構築デモ](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo/blob/master/readme.md)|
 ||セキュリティ|ゼロトラストセキュリティ|nakama|★★★|[ppt](https://download.microsoft.com/download/d/f/e/dfed7e7b-75e8-4939-823d-25a06b0abd68/FgCF_①_0_Zero_trust_type_multi_cloud_IT_environment_Introduction_Further_shortened_version_v0.40.pptx) [mp4](https://download.microsoft.com/download/b/5/0/b507ac40-280b-413a-be8a-56b29a6a765d/2020_03_10_FgCF_ZeroTrustMultiCloudITEnvironment_movie_v0.40a.zip) [YouTube](https://www.youtube.com/watch?v=T3bySEjhoQ8)|
 |||OA 環境設計|nakama|★|[ppt](https://download.microsoft.com/download/e/6/2/e6254b95-f822-42a9-b68c-057a71a67dca/FgCF_102_Zero_Trust_Multi_Cloud_IT_Environment_OA_Environment_Design_v0.17.pptx) [mp4](https://download.microsoft.com/download/3/7/0/370c26c3-a785-462b-a484-b69500d28680/FgCF_Zero_Trust_IT_Infrastructure_Design_way_of_thinking_video_v0.17.mp4) [YouTube](https://www.youtube.com/watch?v=QUyfcHDJXyI)|
 |||Azure W-AF : Security|nakama|★|[ppt](https://download.microsoft.com/download/1/3/8/13855030-7731-47a8-9759-ff28d9c32e3e/AzureW-AF_Security_section_Overview_documentation_v0.13.pptx) [mp4](https://download.microsoft.com/download/1/4/9/149d6525-9a7a-42a4-9302-87efce5f4d82/2020_06_12_AzureW_AF_Security_v0.13.zip) [YouTube](https://www.youtube.com/watch?v=w7-LVAWaGZU)|
@@ -67,6 +67,7 @@
 ||運用管理技術|Web サービス運用ガイド|kodaisakabe||[YouTube](https://www.youtube.com/watch?v=2633bXz4tTU)|
 |||Azure W-AF : Reliability Design|tokubo||[YouTube](https://www.youtube.com/watch?v=pgSsGS6o230)|
 |||Azure W-AF : Ops Excellence|kodaisakabe||[YouTube](https://www.youtube.com/watch?v=8Ye-NELynjc)|
+|||Azure の運用を支える AIOps|juyamagu|★★|[#1](https://zenn.dev/openjny/articles/78f91604a8c30f) [#2](https://zenn.dev/openjny/articles/e4a349ba7d8e8d)|
 ||トレーニング|Microsoft Learn|odasho||[YouTube](https://aka.ms/ocpjptbetc002)|
 |||Synapse Analytics & AI 自習方法|tfukuha||[YouTube](https://aka.ms/ocpjptbdat041)|
 |Azure テクノロジ|セキュリティ|Azure AD 入門|tfukuha||[YouTube](https://aka.ms/ocpjptbinf001)|
@@ -175,7 +176,6 @@
 |||Microsoft OpenJDK|yoterada||[YouTube](https://www.youtube.com/watch?v=pcJGdtaFV-U)|
 |||VS Code による Java 開発|yoterada||[YouTube](https://www.youtube.com/watch?v=YWzlCWSrKJ8)|
 |||Bot Framework|osamum||[YouTube](https://aka.ms/ocpjptbapp004)|
-||DaaS|AVD アーキテクチャデザイン|FTA||[GitHub](https://github.com/Azure/fta-japan/blob/main/FTALive/AVD/AVD Architecture Design Guide.md)|
 ||Multi/Hybrid|Azure Stack HCI|osamut||[YouTube](https://www.youtube.com/watch?v=VT2gJnMntTM)|
 |||Azure Arc enabled Kubernetes|shiasa||[YouTube](https://aka.ms/ocpjptbapp042)|
 |||Azure Arc enabled SQL MI|tfukuha||[YouTube](https://aka.ms/ocpjptbdat011)|
@@ -187,8 +187,7 @@
 |||IaC (Bicep)|akkoike||[ppt](https://download.microsoft.com/download/3/f/5/3f50ffe5-acba-4651-a408-db8a912dcdf9/IaC_realized_in_Bicep.pptx)|
 |||Chaos Studio|yojijo||[YouTube](https://www.youtube.com/watch?v=lPrg9bpzthQ)|
 |||D365 Customer Insights|keiji||[YouTube](https://aka.ms/ocpjptbdat038)|
-|その他|FAQ|FTA Japan Knowledge Base|||[GitHub](https://github.com/Azure/fta-japan/)|
-||Azure のサポート|問い合わせのコツ|kakusaka|★★★|[blog](https://www.michikusayan.com/entry/20230620/1687252878)|
+|その他|Azure のサポート|問い合わせのコツ|kakusaka|★★★|[blog](https://www.michikusayan.com/entry/20230620/1687252878)|
 
 
 ## 社員・チームBlog
@@ -316,8 +315,6 @@
 |Power BI サポート チーム|Power BI||[Blog](https://jpbap-sqlbi.github.io/blog/)||||
 |Dynamics 365 CRM & Power Platform サポート|D365, PowerPlatform||[Blog](https://jpdynamicscrm.github.io/blog/)||||
 |Dynamics 365 Finance and Operations/AX サポート チーム|D365||[Blog](https://jpdynamicserp.github.io/blog/)||||
-|Japan FTA (FastTrack for Azure)|FTA|||[GitHub](https://github.com/Azure/fta-japan)|||
-|Kusto 100+ knocks (FTA)|FTA|||[GitHub](https://azure.github.io/fta-kusto100knocks/)|||
 |MPNJ (Microsoft Partner Network Japan)|Partner|[YouTube](https://www.youtube.com/@MicrosoftPartnerNetworkJapan)|||||
 |日本マイクロソフト株式会社 公式チャンネル||[YouTube](https://www.youtube.com/user/microsoftjapanvideos)|||||
 |Microsoft Base Blog|||[Blog](https://www.microsoft.com/ja-jp/events/azurebase/blog/)||||
